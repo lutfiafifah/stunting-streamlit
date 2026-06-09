@@ -1,0 +1,4986 @@
+Baris,Umur (bulan),Jenis Kelamin,Tinggi Badan (cm),Status Gizi
+1,54,L,95.7,Pendek
+2,21,P,72.6,Sangat Pendek
+3,54,P,96,Pendek
+4,32,L,86.4,Pendek
+5,31,L,85.3,Pendek
+6,49,P,93.3,Pendek
+7,15,P,72,Pendek
+8,3,P,56,Pendek
+9,31,P,84,Pendek
+10,31,L,85,Pendek
+11,24,P,78.4,Pendek
+12,20,L,78,Pendek
+13,46,P,89.4,Sangat Pendek
+14,41,P,87,Pendek
+15,40,P,86.5,Pendek
+16,11,P,61.7,Sangat Pendek
+17,44,L,93,Pendek
+18,17,L,74.9,Pendek
+19,13,L,73,Pendek
+20,20,P,75.9,Pendek
+21,12,L,70,Pendek
+22,35,L,87,Pendek
+23,19,L,77.9,Pendek
+24,27,L,82,Pendek
+25,37,L,85.6,Sangat Pendek
+26,24,L,79.2,Pendek
+27,35,L,88.1,Pendek
+28,21,L,74.5,Sangat Pendek
+29,20,L,78,Pendek
+30,17,L,75.8,Pendek
+31,27,L,82.1,Pendek
+32,37,L,87.5,Pendek
+33,46,L,87.2,Sangat Pendek
+34,24,L,80,Pendek
+35,35,L,85.2,Pendek
+36,57,L,94,Sangat Pendek
+37,33,L,85,Pendek
+38,15,L,73.7,Pendek
+39,57,L,97,Pendek
+40,27,L,82.7,Pendek
+41,57,L,98.6,Pendek
+42,52,L,96.1,Pendek
+43,52,L,94.3,Pendek
+44,13,L,71.2,Pendek
+45,23,L,80,Pendek
+46,21,L,76,Pendek
+47,21,L,78.5,Pendek
+48,21,L,77,Pendek
+49,31,P,82,Pendek
+50,50,L,95.1,Pendek
+51,22,P,77.6,Pendek
+52,22,L,77,Sangat Pendek
+53,9,L,67.5,Pendek
+54,32,L,84.9,Pendek
+55,30,L,85,Pendek
+56,28,L,82.5,Pendek
+57,27,L,78.4,Sangat Pendek
+58,24,L,80.1,Pendek
+59,47,L,93.1,Pendek
+60,21,L,79.4,Pendek
+61,8,L,64.8,Pendek
+62,55,L,95.8,Pendek
+63,41,L,89.7,Pendek
+64,16,L,75,Pendek
+65,39,P,84.5,Sangat Pendek
+66,26,L,79,Sangat Pendek
+67,42,L,92.1,Pendek
+68,27,L,83.6,Pendek
+69,35,L,84,Sangat Pendek
+70,35,L,85.4,Pendek
+71,30,L,84.5,Pendek
+72,41,L,82,Sangat Pendek
+73,28,L,83.9,Pendek
+74,27,L,78.3,Sangat Pendek
+75,21,L,79.5,Pendek
+76,58,P,98.5,Pendek
+77,29,L,82.4,Pendek
+78,20,P,72.6,Sangat Pendek
+79,34,L,84.5,Pendek
+80,21,L,77.5,Pendek
+81,44,L,92.8,Pendek
+82,52,L,94,Pendek
+83,29,L,84.5,Pendek
+84,27,L,80.1,Sangat Pendek
+85,14,L,73.8,Pendek
+86,35,L,85,Pendek
+87,44,L,87,Sangat Pendek
+88,31,L,86.4,Pendek
+89,18,L,74.7,Sangat Pendek
+90,40,L,90.5,Pendek
+91,3,L,58.2,Pendek
+92,38,L,86.5,Pendek
+93,34,L,86.7,Pendek
+94,56,L,95.9,Pendek
+95,55,L,97.4,Pendek
+96,18,L,77.4,Pendek
+97,14,L,71.7,Pendek
+98,58,L,97.1,Pendek
+99,22,L,79.2,Pendek
+100,22,L,80.7,Pendek
+101,9,L,67.5,Pendek
+102,49,L,92,Pendek
+103,47,L,90.5,Sangat Pendek
+104,22,L,74,Sangat Pendek
+105,34,L,84,Pendek
+106,32,P,83.8,Pendek
+107,30,L,84.8,Pendek
+108,30,P,78,Sangat Pendek
+109,25,L,82,Pendek
+110,36,L,85,Sangat Pendek
+111,0,L,48,Pendek
+112,20,L,77,Pendek
+113,20,L,79,Pendek
+114,55,L,97,Pendek
+115,54,L,96,Pendek
+116,17,L,73.5,Sangat Pendek
+117,47,L,88,Sangat Pendek
+118,25,L,82.1,Pendek
+119,46,L,94,Pendek
+120,57,L,98,Pendek
+121,57,L,95,Pendek
+122,5,L,65,Pendek
+123,16,L,75,Pendek
+124,26,L,82,Pendek
+125,15,L,71.8,Pendek
+126,24,L,81.4,Pendek
+127,50,L,94.7,Pendek
+128,31,L,85,Pendek
+129,40,P,90,Pendek
+130,28,L,79.5,Sangat Pendek
+131,24,P,79,Pendek
+132,58,L,98.5,Pendek
+133,30,L,84.5,Pendek
+134,28,L,84.2,Pendek
+135,16,L,74.5,Pendek
+136,23,L,78.3,Sangat Pendek
+137,0,L,48,Pendek
+138,21,L,78.7,Pendek
+139,32,L,86,Pendek
+140,42,L,90.1,Pendek
+141,40,L,88.7,Pendek
+142,47,L,92.4,Pendek
+143,0,L,48,Pendek
+144,58,L,97.5,Pendek
+145,47,L,90.5,Pendek
+146,4,L,57.9,Sangat Pendek
+147,49,L,94,Pendek
+148,8,L,65,Pendek
+149,35,L,86.6,Pendek
+150,21,L,79.4,Pendek
+151,43,L,90.3,Pendek
+152,18,L,76.7,Pendek
+153,40,L,90,Pendek
+154,39,L,87,Pendek
+155,47,L,93.1,Pendek
+156,56,L,97,Pendek
+157,17,L,74,Pendek
+158,13,L,71.5,Pendek
+159,13,L,71,Pendek
+160,32,L,82.8,Sangat Pendek
+161,31,L,83.6,Pendek
+162,27,L,84,Pendek
+163,14,L,73.7,Pendek
+164,13,L,68.8,Sangat Pendek
+165,12,P,68.7,Pendek
+166,47,L,93,Pendek
+167,53,L,97,Pendek
+168,41,L,89,Pendek
+169,17,L,72.5,Sangat Pendek
+170,39,L,89.2,Pendek
+171,50,L,92,Pendek
+172,38,L,85.5,Sangat Pendek
+173,23,P,73,Sangat Pendek
+174,0,L,49,Pendek
+175,10,L,62,Sangat Pendek
+176,10,L,67.7,Pendek
+177,57,L,95.6,Pendek
+178,20,L,78.8,Pendek
+179,35,L,84.7,Pendek
+180,38,L,89,Pendek
+181,38,L,87.3,Pendek
+182,49,L,94.7,Pendek
+183,9,L,66,Pendek
+184,31,L,83,Pendek
+185,42,L,89.6,Pendek
+186,40,L,87.5,Pendek
+187,4,L,59.7,Pendek
+188,37,L,88,Pendek
+189,9,L,67,Pendek
+190,33,L,85.7,Pendek
+191,56,L,94.4,Sangat Pendek
+192,56,L,97,Pendek
+193,53,L,97,Pendek
+194,4,P,58.2,Pendek
+195,28,L,81,Pendek
+196,51,L,95,Pendek
+197,15,L,73,Pendek
+198,49,L,95.1,Pendek
+199,55,L,97.2,Pendek
+200,30,L,81,Sangat Pendek
+201,52,L,95,Pendek
+202,24,L,81,Pendek
+203,5,P,60,Pendek
+204,35,L,88,Pendek
+205,53,L,88.9,Sangat Pendek
+206,28,L,79,Sangat Pendek
+207,26,P,80.5,Pendek
+208,26,L,79.8,Pendek
+209,36,P,86,Pendek
+210,12,P,67.8,Pendek
+211,23,P,78.3,Pendek
+212,46,P,92,Pendek
+213,10,P,67,Pendek
+214,57,P,98,Pendek
+215,55,P,95.2,Pendek
+216,31,P,81,Pendek
+217,30,P,83.5,Pendek
+218,16,P,72.4,Pendek
+219,55,P,97.5,Pendek
+220,30,P,83.3,Pendek
+221,53,P,96,Pendek
+222,53,P,91.3,Sangat Pendek
+223,47,L,94.2,Pendek
+224,55,P,97.2,Pendek
+225,42,P,88,Pendek
+226,3,P,56.6,Pendek
+227,13,P,70,Pendek
+228,42,P,87.1,Pendek
+229,24,P,78.6,Pendek
+230,43,P,90,Pendek
+231,19,P,74.5,Pendek
+232,54,P,96.9,Pendek
+233,15,P,70.5,Pendek
+234,51,P,95,Pendek
+235,50,P,94.6,Pendek
+236,35,P,86.5,Pendek
+237,31,P,84,Pendek
+238,30,P,82.5,Pendek
+239,16,P,71,Pendek
+240,25,P,78,Pendek
+241,46,P,92,Pendek
+242,22,P,77,Pendek
+243,49,P,93.8,Pendek
+244,29,P,82.5,Pendek
+245,22,P,75.5,Pendek
+246,21,P,75.3,Pendek
+247,18,P,73.5,Pendek
+248,29,P,79.8,Sangat Pendek
+249,27,P,78.5,Pendek
+250,59,P,98.5,Pendek
+251,48,P,93.8,Pendek
+252,36,P,85.2,Pendek
+253,35,L,86.5,Pendek
+254,35,P,81.9,Sangat Pendek
+255,40,P,87.8,Pendek
+256,36,L,85.4,Pendek
+257,12,P,66.1,Sangat Pendek
+258,33,P,85,Pendek
+259,55,L,90.5,Sangat Pendek
+260,44,P,91,Pendek
+261,32,P,84.5,Pendek
+262,55,P,97,Pendek
+263,5,P,58.5,Pendek
+264,37,P,86.5,Pendek
+265,36,P,84,Pendek
+266,24,P,76,Sangat Pendek
+267,12,P,67,Pendek
+268,22,P,78,Pendek
+269,46,P,93,Pendek
+270,55,P,90.3,Sangat Pendek
+271,26,P,79,Pendek
+272,39,L,88.5,Pendek
+273,26,P,77,Sangat Pendek
+274,34,P,86.1,Pendek
+275,42,P,90.5,Pendek
+276,3,P,55.8,Pendek
+277,34,P,82,Sangat Pendek
+278,44,P,92,Pendek
+279,57,P,96,Pendek
+280,57,P,98.7,Pendek
+281,44,P,92.1,Pendek
+282,53,P,95.4,Pendek
+283,30,P,82.6,Pendek
+284,27,P,81.3,Pendek
+285,21,P,76.5,Pendek
+286,20,P,71,Sangat Pendek
+287,28,P,80.3,Pendek
+288,39,P,88,Pendek
+289,39,P,88,Pendek
+290,50,P,92.4,Pendek
+291,37,P,86,Pendek
+292,46,P,90,Pendek
+293,57,P,97.8,Pendek
+294,44,P,91,Pendek
+295,6,P,61.4,Pendek
+296,43,P,90.7,Pendek
+297,51,P,93.2,Pendek
+298,15,L,74.5,Pendek
+299,0,P,45,Pendek
+300,32,P,84.5,Pendek
+301,30,P,78.2,Sangat Pendek
+302,17,P,72.4,Pendek
+303,40,P,88.5,Pendek
+304,51,P,95.6,Pendek
+305,39,P,87.4,Pendek
+306,49,P,95,Pendek
+307,34,P,86,Pendek
+308,43,P,89.5,Pendek
+309,31,P,83.6,Pendek
+310,46,P,91.2,Pendek
+311,44,P,91.4,Pendek
+312,30,P,83.2,Pendek
+313,18,P,74.1,Pendek
+314,26,P,78.1,Pendek
+315,49,P,92.4,Pendek
+316,43,P,84,Sangat Pendek
+317,52,P,95.5,Pendek
+318,39,P,89.5,Pendek
+319,24,P,77,Pendek
+320,0,P,45,Pendek
+321,34,P,81,Sangat Pendek
+322,20,P,77.3,Pendek
+323,17,P,75,Pendek
+324,21,P,75.7,Pendek
+325,20,P,73.1,Sangat Pendek
+326,20,P,77,Pendek
+327,17,P,74,Pendek
+328,17,P,71.7,Sangat Pendek
+329,37,P,85.5,Pendek
+330,58,P,99,Pendek
+331,56,P,98,Pendek
+332,40,P,88.7,Pendek
+333,16,P,73,Pendek
+334,0,L,49,Pendek
+335,46,P,89.7,Pendek
+336,53,P,96.3,Pendek
+337,50,P,90.5,Sangat Pendek
+338,21,P,78,Pendek
+339,54,P,95.6,Pendek
+340,42,P,90.6,Pendek
+341,28,P,81.5,Pendek
+342,50,P,93.8,Pendek
+343,35,P,85,Pendek
+344,30,P,83,Pendek
+345,38,P,81.2,Sangat Pendek
+346,13,L,72,Pendek
+347,11,P,67,Pendek
+348,21,P,77,Pendek
+349,31,P,81.2,Pendek
+350,17,P,73,Pendek
+351,52,P,95.6,Pendek
+352,37,P,87,Pendek
+353,35,P,86.5,Pendek
+354,7,P,63,Pendek
+355,39,P,88,Pendek
+356,39,P,86,Sangat Pendek
+357,15,P,69,Sangat Pendek
+358,48,P,89.5,Sangat Pendek
+359,48,P,94,Pendek
+360,12,P,69,Pendek
+361,54,L,96,Pendek
+362,52,P,95,Pendek
+363,28,P,77.9,Sangat Pendek
+364,50,P,92,Pendek
+365,42,P,88.7,Pendek
+366,37,L,86.5,Pendek
+367,41,L,90.4,Pendek
+368,26,L,79.9,Pendek
+369,27,L,80.9,Pendek
+370,32,L,82.2,Sangat Pendek
+371,18,L,72.9,Sangat Pendek
+372,13,L,71,Pendek
+373,16,L,74.1,Pendek
+374,15,L,73.8,Pendek
+375,13,L,68.7,Sangat Pendek
+376,59,L,99.5,Pendek
+377,18,L,76.3,Pendek
+378,15,L,71,Sangat Pendek
+379,12,L,71.5,Pendek
+380,14,P,69.5,Pendek
+381,25,P,78.5,Pendek
+382,51,P,94,Pendek
+383,50,P,94,Pendek
+384,33,P,82,Pendek
+385,25,P,78.2,Pendek
+386,57,P,96,Pendek
+387,20,P,76.8,Pendek
+388,34,P,85.9,Pendek
+389,32,P,79.2,Sangat Pendek
+390,58,P,97.7,Pendek
+391,29,P,81,Pendek
+392,10,P,66.5,Pendek
+393,18,P,75.1,Pendek
+394,43,P,91,Pendek
+395,32,P,84.6,Pendek
+396,28,P,79,Sangat Pendek
+397,15,L,70.9,Sangat Pendek
+398,14,L,69,Sangat Pendek
+399,34,P,78,Sangat Pendek
+400,38,L,90,Pendek
+401,17,L,75.8,Pendek
+402,55,L,95.4,Pendek
+403,22,P,73,Sangat Pendek
+404,55,P,95.1,Pendek
+405,50,P,94.2,Pendek
+406,32,P,85,Pendek
+407,32,L,85,Pendek
+408,39,L,90,Pendek
+409,25,P,79.3,Pendek
+410,47,P,90,Pendek
+411,42,P,87.5,Pendek
+412,41,P,87,Pendek
+413,18,L,75.5,Pendek
+414,21,P,76.3,Pendek
+415,13,L,71,Pendek
+416,36,L,87,Pendek
+417,20,L,78,Pendek
+418,38,L,87,Pendek
+419,25,L,80,Pendek
+420,22,L,74.5,Sangat Pendek
+421,21,L,78.5,Pendek
+422,18,L,76.6,Pendek
+423,38,L,87.7,Pendek
+424,47,L,87.5,Sangat Pendek
+425,25,L,80,Pendek
+426,36,L,86,Pendek
+427,58,L,94,Sangat Pendek
+428,34,L,86,Pendek
+429,16,L,74.6,Pendek
+430,16,L,74.2,Pendek
+431,15,P,72,Pendek
+432,58,L,97.5,Pendek
+433,27,L,83.1,Pendek
+434,42,L,89,Pendek
+435,53,L,96.1,Pendek
+436,53,L,94.6,Pendek
+437,14,L,73,Pendek
+438,49,L,95.3,Pendek
+439,24,L,81,Pendek
+440,22,L,76.7,Pendek
+441,22,L,79.3,Pendek
+442,22,L,79,Pendek
+443,32,P,83,Pendek
+444,19,L,77.5,Pendek
+445,51,L,95.2,Pendek
+446,23,P,78,Pendek
+447,23,L,78,Sangat Pendek
+448,33,L,86.5,Pendek
+449,33,L,85.2,Pendek
+450,31,L,85,Pendek
+451,29,L,82.5,Pendek
+452,28,L,78.5,Sangat Pendek
+453,24,L,80.5,Pendek
+454,48,L,93.8,Pendek
+455,22,L,79.5,Pendek
+456,8,L,65.6,Pendek
+457,56,L,96,Pendek
+458,42,L,90.8,Pendek
+459,40,P,85,Sangat Pendek
+460,26,L,79.1,Sangat Pendek
+461,28,L,83.8,Pendek
+462,26,L,82.8,Pendek
+463,36,L,84.5,Sangat Pendek
+464,36,L,87.1,Pendek
+465,31,L,85.3,Pendek
+466,42,L,83,Sangat Pendek
+467,29,L,84,Pendek
+468,28,P,82,Pendek
+469,28,L,79,Sangat Pendek
+470,13,L,72,Pendek
+471,0,L,47,Pendek
+472,0,L,45,Pendek
+473,59,P,98.5,Pendek
+474,30,L,83,Pendek
+475,13,L,71,Pendek
+476,21,P,72.8,Sangat Pendek
+477,13,L,72,Pendek
+478,35,L,84.7,Sangat Pendek
+479,10,L,68.5,Pendek
+480,45,L,93.1,Pendek
+481,53,L,95,Pendek
+482,29,L,85.4,Pendek
+483,41,L,91.3,Pendek
+484,28,L,80.1,Sangat Pendek
+485,28,L,83.8,Pendek
+486,15,L,74.8,Pendek
+487,44,L,88.4,Sangat Pendek
+488,19,L,76,Pendek
+489,39,L,88.4,Pendek
+490,35,L,86.7,Pendek
+491,57,L,96.1,Pendek
+492,56,L,97.5,Pendek
+493,19,L,77.5,Pendek
+494,15,L,72.8,Pendek
+495,23,L,80.5,Pendek
+496,10,L,68,Pendek
+497,48,L,91.5,Pendek
+498,23,L,74,Sangat Pendek
+499,34,L,85,Pendek
+500,32,P,84,Pendek
+501,31,L,86,Pendek
+502,30,P,78,Sangat Pendek
+503,37,L,86,Sangat Pendek
+504,21,L,80,Pendek
+505,21,L,78,Pendek
+506,21,L,79.8,Pendek
+507,56,L,97,Pendek
+508,55,L,96.5,Pendek
+509,31,P,83.7,Pendek
+510,18,L,73.5,Sangat Pendek
+511,48,L,88.9,Sangat Pendek
+512,16,L,75,Pendek
+513,27,L,82.3,Pendek
+514,37,L,88,Pendek
+515,47,L,94,Pendek
+516,58,L,95.1,Sangat Pendek
+517,6,L,66,Pendek
+518,17,L,76,Pendek
+519,27,L,83,Pendek
+520,16,L,72.5,Sangat Pendek
+521,25,L,81.7,Pendek
+522,51,L,94.7,Pendek
+523,32,L,85,Pendek
+524,41,P,90,Pendek
+525,29,L,81,Sangat Pendek
+526,25,P,79,Pendek
+527,48,L,96,Pendek
+528,59,L,95,Sangat Pendek
+529,31,L,84.7,Pendek
+530,29,L,85,Pendek
+531,17,L,74.5,Pendek
+532,24,L,78.5,Pendek
+533,34,L,87.9,Pendek
+534,45,L,93,Pendek
+535,32,L,86,Pendek
+536,43,L,90.1,Pendek
+537,41,L,90.2,Pendek
+538,25,P,80.4,Pendek
+539,48,L,92.6,Pendek
+540,59,L,98.3,Pendek
+541,48,L,91,Pendek
+542,43,P,88.9,Pendek
+543,52,L,96.7,Pendek
+544,50,L,94.8,Pendek
+545,36,L,87,Pendek
+546,35,L,83,Sangat Pendek
+547,22,L,79.4,Pendek
+548,44,L,90.5,Pendek
+549,19,L,77,Pendek
+550,41,L,90,Pendek
+551,48,L,93.4,Pendek
+552,57,L,97,Pendek
+553,18,L,74.4,Sangat Pendek
+554,14,L,72,Pendek
+555,33,L,82.9,Sangat Pendek
+556,32,L,83.9,Pendek
+557,28,L,84,Pendek
+558,14,L,71,Sangat Pendek
+559,49,L,95.5,Pendek
+560,48,L,93,Pendek
+561,54,L,97,Pendek
+562,42,L,89.2,Pendek
+563,18,L,73.1,Sangat Pendek
+564,40,L,89.8,Pendek
+565,51,L,92.4,Pendek
+566,39,L,86.9,Pendek
+567,24,P,73.3,Sangat Pendek
+568,11,L,63.3,Sangat Pendek
+569,11,L,69,Pendek
+570,58,L,95.8,Pendek
+571,36,L,85.2,Pendek
+572,39,L,88.4,Pendek
+573,50,L,94.8,Pendek
+574,0,L,41,Sangat Pendek
+575,10,L,68,Pendek
+576,44,L,93.1,Pendek
+577,32,L,84,Pendek
+578,43,L,90,Pendek
+579,41,L,89.5,Pendek
+580,5,L,61.2,Pendek
+581,38,L,88.4,Pendek
+582,10,L,67.2,Pendek
+583,34,L,86.5,Pendek
+584,57,L,95.5,Pendek
+585,57,L,98,Pendek
+586,57,P,98.7,Pendek
+587,29,L,81.9,Pendek
+588,52,L,95.6,Pendek
+589,16,L,74,Pendek
+590,3,L,56.5,Pendek
+591,56,L,98.3,Pendek
+592,31,L,81,Sangat Pendek
+593,53,L,95.2,Pendek
+594,17,L,74,Pendek
+595,39,L,88.4,Pendek
+596,38,L,86.8,Pendek
+597,26,L,83,Pendek
+598,25,L,81,Pendek
+599,36,L,88.5,Pendek
+600,54,L,89.5,Sangat Pendek
+601,29,L,79.6,Sangat Pendek
+602,27,P,80.5,Pendek
+603,27,L,80.2,Pendek
+604,37,P,87.8,Pendek
+605,13,P,68.2,Pendek
+606,36,P,84.6,Pendek
+607,24,P,79.1,Pendek
+608,47,P,93,Pendek
+609,58,P,98,Pendek
+610,56,P,96.4,Pendek
+611,32,P,82.2,Pendek
+612,31,P,84,Pendek
+613,17,P,72.9,Pendek
+614,31,P,84.4,Pendek
+615,54,P,96.3,Pendek
+616,41,P,83.2,Sangat Pendek
+617,54,P,91.5,Sangat Pendek
+618,48,L,94.8,Pendek
+619,0,P,38,Sangat Pendek
+620,56,P,97.4,Pendek
+621,44,P,92,Pendek
+622,43,P,89,Pendek
+623,4,P,58.3,Pendek
+624,14,P,71,Pendek
+625,43,P,87.1,Sangat Pendek
+626,25,P,78.6,Pendek
+627,44,P,90,Pendek
+628,32,P,85,Pendek
+629,20,P,74.5,Pendek
+630,55,P,97.5,Pendek
+631,16,P,71,Pendek
+632,31,P,83,Pendek
+633,52,P,95.5,Pendek
+634,51,P,95.5,Pendek
+635,2,P,53,Pendek
+636,18,P,75.1,Pendek
+637,17,P,73,Pendek
+638,26,P,78.5,Pendek
+639,47,P,93,Pendek
+640,23,P,77.3,Pendek
+641,25,P,79.2,Pendek
+642,23,P,77,Pendek
+643,22,P,75.5,Pendek
+644,19,P,74,Pendek
+645,30,P,80,Sangat Pendek
+646,28,P,78.5,Sangat Pendek
+647,49,P,94,Pendek
+648,37,P,86.7,Pendek
+649,36,L,88,Pendek
+650,36,P,81.9,Sangat Pendek
+651,41,P,88,Pendek
+652,51,P,95.5,Pendek
+653,36,L,85.5,Pendek
+654,13,P,66.4,Sangat Pendek
+655,35,P,85,Pendek
+656,57,L,91.3,Sangat Pendek
+657,45,P,91.5,Pendek
+658,32,P,84.5,Pendek
+659,56,P,97.7,Pendek
+660,43,P,91,Pendek
+661,29,P,83.2,Pendek
+662,6,P,60,Pendek
+663,38,P,87.5,Pendek
+664,37,P,84.5,Pendek
+665,25,P,76,Sangat Pendek
+666,13,P,68,Pendek
+667,23,P,78.2,Pendek
+668,47,P,93.5,Pendek
+669,56,P,90.5,Sangat Pendek
+670,27,P,79.5,Pendek
+671,40,L,88.5,Pendek
+672,27,P,77.7,Sangat Pendek
+673,35,P,86.7,Pendek
+674,43,P,91,Pendek
+675,4,P,58.2,Pendek
+676,35,P,82.1,Sangat Pendek
+677,45,P,92.5,Pendek
+678,31,P,84,Pendek
+679,23,P,76.8,Pendek
+680,58,P,96,Pendek
+681,58,P,98.7,Pendek
+682,45,P,92.1,Pendek
+683,54,P,96.6,Pendek
+684,31,P,84,Pendek
+685,28,P,81.8,Pendek
+686,22,P,77.8,Pendek
+687,21,P,73,Sangat Pendek
+688,29,P,81.2,Pendek
+689,41,P,89.2,Pendek
+690,40,P,88.5,Pendek
+691,51,P,92.9,Pendek
+692,38,P,86.6,Pendek
+693,47,P,90.3,Pendek
+694,58,P,97.8,Pendek
+695,45,P,91.5,Pendek
+696,19,P,75.8,Pendek
+697,7,P,62.5,Pendek
+698,44,P,92,Pendek
+699,19,P,76,Pendek
+700,52,P,93.4,Pendek
+701,35,P,87,Pendek
+702,33,P,84.7,Pendek
+703,31,P,78.8,Sangat Pendek
+704,18,P,73.2,Pendek
+705,41,P,89.5,Pendek
+706,52,P,95.8,Pendek
+707,40,P,89.5,Pendek
+708,35,P,86.5,Pendek
+709,32,P,84,Pendek
+710,47,P,91.5,Pendek
+711,45,P,91.4,Pendek
+712,31,P,83.9,Pendek
+713,19,P,74.1,Pendek
+714,16,P,73,Pendek
+715,27,P,80.1,Pendek
+716,50,P,93,Pendek
+717,18,P,75,Pendek
+718,25,P,78,Pendek
+719,35,P,83,Sangat Pendek
+720,21,P,78,Pendek
+721,18,P,75,Pendek
+722,25,P,80.4,Pendek
+723,22,P,77.6,Pendek
+724,21,P,74,Sangat Pendek
+725,21,P,77.2,Pendek
+726,18,P,74,Pendek
+727,18,P,71.8,Sangat Pendek
+728,38,P,86.3,Pendek
+729,57,P,98.5,Pendek
+730,8,P,65,Pendek
+731,47,P,90.7,Pendek
+732,54,P,97.2,Pendek
+733,40,P,90,Pendek
+734,51,P,90.5,Sangat Pendek
+735,22,P,78,Pendek
+736,55,P,96.2,Pendek
+737,29,P,82.3,Pendek
+738,51,P,93.8,Pendek
+739,36,P,85.5,Pendek
+740,31,P,84.5,Pendek
+741,39,P,82,Sangat Pendek
+742,14,L,73,Pendek
+743,24,P,77.6,Pendek
+744,12,P,69.1,Pendek
+745,22,P,77,Pendek
+746,32,P,82.3,Pendek
+747,18,P,73.5,Pendek
+748,53,P,95.9,Pendek
+749,52,P,96,Pendek
+750,16,P,73.5,Pendek
+751,38,P,88.7,Pendek
+752,36,P,86.7,Pendek
+753,40,P,88.5,Pendek
+754,40,P,86.1,Pendek
+755,16,P,70,Sangat Pendek
+756,51,P,95,Pendek
+757,49,P,90.5,Pendek
+758,13,P,69.5,Pendek
+759,55,L,96.1,Pendek
+760,53,P,95.2,Pendek
+761,29,P,78.3,Sangat Pendek
+762,51,P,93,Pendek
+763,43,P,89,Pendek
+764,38,L,87.7,Pendek
+765,36,L,87,Pendek
+766,42,L,90.5,Pendek
+767,27,L,80.3,Pendek
+768,28,L,81,Sangat Pendek
+769,33,L,82.4,Sangat Pendek
+770,19,L,74,Sangat Pendek
+771,14,L,72.5,Pendek
+772,17,L,74.6,Pendek
+773,16,L,73.8,Pendek
+774,14,L,68.9,Sangat Pendek
+775,59,L,99.7,Pendek
+776,19,L,77.2,Pendek
+777,16,L,72.6,Sangat Pendek
+778,26,L,83,Pendek
+779,25,L,81,Pendek
+780,13,L,72.5,Pendek
+781,15,P,71,Pendek
+782,26,P,80.2,Pendek
+783,52,P,94.4,Pendek
+784,51,P,94,Pendek
+785,18,P,74.9,Pendek
+786,33,P,82.6,Pendek
+787,26,P,78.2,Sangat Pendek
+788,58,P,96.2,Pendek
+789,32,P,79.5,Sangat Pendek
+790,59,P,98,Pendek
+791,11,P,68,Pendek
+792,19,P,75.5,Pendek
+793,44,P,92,Pendek
+794,33,P,84.7,Pendek
+795,29,P,79,Sangat Pendek
+796,16,L,71.5,Sangat Pendek
+797,19,L,77.9,Pendek
+798,15,L,69,Sangat Pendek
+799,35,P,78,Sangat Pendek
+800,13,P,70,Pendek
+801,39,L,90.2,Pendek
+802,18,L,76,Pendek
+803,23,P,73,Sangat Pendek
+804,56,P,95.5,Pendek
+805,51,P,95,Pendek
+806,40,L,91,Pendek
+807,26,P,80.3,Pendek
+808,48,P,91.1,Pendek
+809,43,P,90,Pendek
+810,42,P,87.5,Pendek
+811,13,P,65.3,Sangat Pendek
+812,16,L,75,Pendek
+813,22,P,78,Pendek
+814,37,L,87.6,Pendek
+815,9,L,66.8,Pendek
+816,52,L,96.5,Pendek
+817,39,L,90,Pendek
+818,26,L,80.1,Pendek
+819,23,L,76,Sangat Pendek
+820,22,L,78.5,Pendek
+821,29,L,84.2,Pendek
+822,5,L,62,Pendek
+823,16,L,73.4,Pendek
+824,39,L,87.9,Pendek
+825,48,L,91,Pendek
+826,26,L,82,Pendek
+827,37,L,87.5,Pendek
+828,36,P,87.4,Pendek
+829,59,L,95,Sangat Pendek
+830,35,L,87,Pendek
+831,17,L,74.5,Pendek
+832,16,P,73,Pendek
+833,59,L,98.6,Pendek
+834,29,L,83.5,Pendek
+835,43,L,89.2,Pendek
+836,54,L,96.6,Pendek
+837,54,L,94.9,Pendek
+838,3,L,56.1,Pendek
+839,50,L,95.8,Pendek
+840,23,L,78.5,Pendek
+841,23,L,79.5,Pendek
+842,23,L,79,Pendek
+843,33,P,84.3,Pendek
+844,52,L,95.7,Pendek
+845,24,P,79,Pendek
+846,24,L,79.1,Pendek
+847,11,L,69.9,Pendek
+848,34,L,87,Pendek
+849,34,L,85.6,Pendek
+850,32,L,85.2,Pendek
+851,30,L,84,Pendek
+852,29,L,78.7,Sangat Pendek
+853,38,L,84,Sangat Pendek
+854,26,L,81.4,Pendek
+855,49,L,94.2,Pendek
+856,23,L,80.1,Pendek
+857,34,P,85.6,Pendek
+858,10,L,65.8,Sangat Pendek
+859,57,L,96.5,Pendek
+860,43,L,90.8,Pendek
+861,41,P,85,Sangat Pendek
+862,28,L,80,Sangat Pendek
+863,29,L,84,Pendek
+864,37,L,85.1,Sangat Pendek
+865,37,L,87.1,Pendek
+866,32,L,86,Pendek
+867,43,L,84,Sangat Pendek
+868,30,L,84.1,Pendek
+869,29,L,80.5,Sangat Pendek
+870,14,L,73,Pendek
+871,59,P,98.5,Pendek
+872,31,L,84,Pendek
+873,14,L,73,Pendek
+874,14,L,72.3,Pendek
+875,36,L,84.5,Sangat Pendek
+876,11,L,68.5,Pendek
+877,47,L,93.2,Pendek
+878,54,L,95.9,Pendek
+879,30,L,85.5,Pendek
+880,42,L,91.5,Pendek
+881,29,L,80.3,Sangat Pendek
+882,28,L,84.3,Pendek
+883,37,L,89,Pendek
+884,37,L,87,Pendek
+885,37,L,87.4,Pendek
+886,45,L,89,Sangat Pendek
+887,33,L,87.4,Pendek
+888,20,L,76.1,Sangat Pendek
+889,40,L,88.5,Pendek
+890,36,L,87.5,Pendek
+891,58,L,97,Pendek
+892,57,L,98.7,Pendek
+893,20,L,78.5,Pendek
+894,16,L,73.5,Pendek
+895,16,L,74.5,Pendek
+896,24,L,80.5,Pendek
+897,11,L,69,Pendek
+898,51,L,94.2,Pendek
+899,49,L,91.7,Pendek
+900,33,P,84,Pendek
+901,31,P,80,Sangat Pendek
+902,38,L,86,Sangat Pendek
+903,25,L,82.9,Pendek
+904,14,L,73,Pendek
+905,22,L,78,Pendek
+906,22,L,79.9,Pendek
+907,57,L,98,Pendek
+908,56,L,96.8,Pendek
+909,32,P,84,Pendek
+910,19,L,73,Sangat Pendek
+911,49,L,89,Sangat Pendek
+912,28,L,83.5,Pendek
+913,38,L,89,Pendek
+914,48,L,94.5,Pendek
+915,59,L,96,Pendek
+916,28,L,84,Pendek
+917,17,L,73,Sangat Pendek
+918,26,L,82.5,Pendek
+919,59,P,98.1,Pendek
+920,52,L,94.7,Pendek
+921,33,L,86.3,Pendek
+922,42,P,90,Pendek
+923,30,L,83,Pendek
+924,16,L,74,Pendek
+925,32,L,85,Pendek
+926,19,L,78,Pendek
+927,18,L,75,Pendek
+928,25,L,81,Pendek
+929,35,L,87.9,Pendek
+930,0,L,45,Pendek
+931,46,L,94,Pendek
+932,44,L,90.5,Pendek
+933,42,L,90.2,Pendek
+934,40,L,85.2,Sangat Pendek
+935,15,L,73.2,Pendek
+936,26,P,80.4,Pendek
+937,49,L,93,Pendek
+938,49,L,91.5,Pendek
+939,12,L,70.7,Pendek
+940,44,P,90.2,Pendek
+941,6,L,60.5,Sangat Pendek
+942,53,L,96.8,Pendek
+943,51,L,96,Pendek
+944,36,L,84.9,Sangat Pendek
+945,23,L,79.4,Pendek
+946,45,L,91,Pendek
+947,20,L,77.2,Pendek
+948,41,L,88.1,Pendek
+949,49,L,93.6,Pendek
+950,0,L,43,Sangat Pendek
+951,0,L,42,Sangat Pendek
+952,58,L,97,Pendek
+953,19,L,74.4,Sangat Pendek
+954,15,L,72.3,Pendek
+955,15,L,72.4,Pendek
+956,34,L,83.2,Sangat Pendek
+957,33,L,84.9,Pendek
+958,29,L,84,Pendek
+959,15,L,71.9,Sangat Pendek
+960,50,L,95.9,Pendek
+961,49,L,94,Pendek
+962,55,L,97,Pendek
+963,43,L,89.4,Pendek
+964,19,L,74,Sangat Pendek
+965,41,L,90,Pendek
+966,52,L,93.5,Pendek
+967,40,L,87.9,Pendek
+968,39,P,88.8,Pendek
+969,25,P,73.8,Sangat Pendek
+970,12,L,63.5,Sangat Pendek
+971,12,L,69,Sangat Pendek
+972,59,L,96.5,Pendek
+973,37,L,86.2,Pendek
+974,42,L,92,Pendek
+975,17,P,74,Pendek
+976,40,L,89.3,Pendek
+977,51,L,95,Pendek
+978,11,L,68.9,Pendek
+979,33,L,84.1,Pendek
+980,44,L,91.4,Pendek
+981,42,L,90,Pendek
+982,6,L,62,Pendek
+983,39,L,88.6,Pendek
+984,11,L,68,Pendek
+985,35,L,87,Pendek
+986,58,L,96,Pendek
+987,58,L,99,Pendek
+988,58,P,98.8,Pendek
+989,43,L,92.5,Pendek
+990,30,L,82.8,Pendek
+991,53,L,96.4,Pendek
+992,17,L,74.5,Pendek
+993,4,L,56.7,Sangat Pendek
+994,57,L,99,Pendek
+995,32,L,82,Sangat Pendek
+996,54,L,95.7,Pendek
+997,18,L,74.5,Sangat Pendek
+998,4,L,59.6,Pendek
+999,39,L,87,Pendek
+1000,37,L,89,Pendek
+1001,55,L,90,Sangat Pendek
+1002,30,L,83.5,Pendek
+1003,28,P,81,Pendek
+1004,28,L,80.3,Sangat Pendek
+1005,38,P,87.6,Pendek
+1006,14,P,68.6,Sangat Pendek
+1007,37,P,85.9,Pendek
+1008,48,P,94,Pendek
+1009,12,P,68.5,Pendek
+1010,59,P,99,Pendek
+1011,57,P,98.1,Pendek
+1012,33,P,83,Pendek
+1013,32,P,85,Pendek
+1014,32,P,84.4,Pendek
+1015,55,P,97.6,Pendek
+1016,19,P,76,Pendek
+1017,42,P,84.2,Sangat Pendek
+1018,55,P,91.7,Sangat Pendek
+1019,49,L,95.4,Pendek
+1020,57,P,97.5,Pendek
+1021,44,P,90,Pendek
+1022,31,P,84.3,Pendek
+1023,5,P,59.5,Pendek
+1024,15,P,72,Pendek
+1025,44,P,87.7,Sangat Pendek
+1026,26,P,79,Pendek
+1027,33,P,85.5,Pendek
+1028,21,P,77.5,Pendek
+1029,21,P,75.3,Pendek
+1030,17,P,72,Pendek
+1031,32,P,84.4,Pendek
+1032,3,P,55.3,Pendek
+1033,32,P,84.1,Pendek
+1034,19,P,74.5,Pendek
+1035,18,P,74.1,Pendek
+1036,48,P,93,Pendek
+1037,24,P,78,Pendek
+1038,34,P,86.6,Pendek
+1039,51,P,95.5,Pendek
+1040,31,P,82,Pendek
+1041,25,P,78,Pendek
+1042,24,P,77.5,Pendek
+1043,23,P,76.5,Pendek
+1044,31,P,80.2,Sangat Pendek
+1045,17,P,74.5,Pendek
+1046,29,P,78.6,Sangat Pendek
+1047,5,P,59,Pendek
+1048,50,P,95.4,Pendek
+1049,38,P,86.6,Pendek
+1050,37,L,88.5,Pendek
+1051,37,P,83.7,Sangat Pendek
+1052,42,P,88.6,Pendek
+1053,37,L,86,Pendek
+1054,14,P,69.1,Pendek
+1055,35,P,87,Pendek
+1056,58,L,91.5,Sangat Pendek
+1057,46,P,91.7,Pendek
+1058,33,P,85.5,Pendek
+1059,57,P,98,Pendek
+1060,44,P,91.2,Pendek
+1061,30,P,83.5,Pendek
+1062,38,P,84.9,Pendek
+1063,26,P,77.2,Sangat Pendek
+1064,14,P,69,Pendek
+1065,24,P,78.5,Pendek
+1066,48,P,94,Pendek
+1067,57,P,91,Sangat Pendek
+1068,28,P,81.3,Pendek
+1069,41,L,88.7,Pendek
+1070,28,P,80,Pendek
+1071,36,P,87.3,Pendek
+1072,17,P,74,Pendek
+1073,36,P,83.7,Sangat Pendek
+1074,33,P,86,Pendek
+1075,24,P,77.1,Pendek
+1076,59,P,98,Pendek
+1077,59,P,99.5,Pendek
+1078,46,P,93,Pendek
+1079,55,P,97.3,Pendek
+1080,17,L,76.7,Pendek
+1081,32,P,84.2,Pendek
+1082,19,P,75.5,Pendek
+1083,29,P,81.8,Pendek
+1084,23,P,77.8,Pendek
+1085,22,P,73.8,Sangat Pendek
+1086,30,P,82.5,Pendek
+1087,41,P,90.1,Pendek
+1088,41,P,89.3,Pendek
+1089,52,P,94.2,Pendek
+1090,39,P,87,Pendek
+1091,48,P,90.5,Pendek
+1092,59,P,99.5,Pendek
+1093,46,P,92,Pendek
+1094,20,P,75.8,Pendek
+1095,18,P,75.5,Pendek
+1096,45,P,92,Pendek
+1097,53,P,93.8,Pendek
+1098,1,P,52,Pendek
+1099,32,P,82,Pendek
+1100,19,P,74,Pendek
+1101,42,P,89.5,Pendek
+1102,53,P,96.1,Pendek
+1103,41,P,89.5,Pendek
+1104,36,P,87,Pendek
+1105,47,P,93.9,Pendek
+1106,45,P,90.6,Pendek
+1107,33,P,86,Pendek
+1108,48,P,92,Pendek
+1109,46,P,92,Pendek
+1110,32,P,83.9,Pendek
+1111,20,P,75.5,Pendek
+1112,17,P,74,Pendek
+1113,51,P,93,Pendek
+1114,45,P,84.5,Sangat Pendek
+1115,19,P,76,Pendek
+1116,54,P,97,Pendek
+1117,30,P,84,Pendek
+1118,41,P,90.5,Pendek
+1119,26,P,78.1,Pendek
+1120,36,P,83,Sangat Pendek
+1121,22,P,78.6,Pendek
+1122,19,P,75.5,Sangat Pendek
+1123,15,P,72.3,Pendek
+1124,26,P,80.5,Pendek
+1125,23,P,78.8,Pendek
+1126,22,P,74.5,Sangat Pendek
+1127,22,P,77.3,Pendek
+1128,19,P,75.1,Pendek
+1129,19,P,72,Sangat Pendek
+1130,39,P,86.8,Pendek
+1131,25,P,80,Pendek
+1132,9,P,65.1,Pendek
+1133,42,P,89,Pendek
+1134,18,P,75.6,Pendek
+1135,48,P,90.9,Pendek
+1136,55,P,97.2,Pendek
+1137,31,P,85,Pendek
+1138,52,P,91,Sangat Pendek
+1139,59,P,99.1,Pendek
+1140,23,P,78.5,Pendek
+1141,56,P,96.3,Pendek
+1142,30,P,82.8,Pendek
+1143,33,P,85.5,Pendek
+1144,32,P,84.5,Pendek
+1145,40,P,83,Sangat Pendek
+1146,15,L,73.5,Pendek
+1147,37,P,86.5,Pendek
+1148,25,P,78,Pendek
+1149,23,P,78.3,Pendek
+1150,33,P,82.8,Pendek
+1151,19,P,75,Pendek
+1152,54,P,96.8,Pendek
+1153,17,P,73.5,Pendek
+1154,39,P,88.8,Pendek
+1155,37,P,87.2,Pendek
+1156,23,P,79.2,Pendek
+1157,41,P,89.5,Pendek
+1158,41,P,86.2,Sangat Pendek
+1159,17,P,71,Sangat Pendek
+1160,52,P,96,Pendek
+1161,50,P,90.6,Sangat Pendek
+1162,50,P,95,Pendek
+1163,14,P,69.6,Pendek
+1164,56,L,96.5,Pendek
+1165,19,P,76,Pendek
+1166,54,P,95.3,Pendek
+1167,30,P,82.6,Pendek
+1168,52,P,93.2,Pendek
+1169,44,P,89.5,Pendek
+1170,37,L,89,Pendek
+1171,43,L,90.6,Pendek
+1172,28,L,81.5,Pendek
+1173,29,L,81.2,Sangat Pendek
+1174,34,L,84.4,Pendek
+1175,20,L,76,Pendek
+1176,15,L,73,Pendek
+1177,18,L,75,Pendek
+1178,17,L,75.5,Pendek
+1179,15,L,72.2,Pendek
+1180,17,L,76.5,Pendek
+1181,20,L,78,Pendek
+1182,17,L,73,Sangat Pendek
+1183,27,L,83,Pendek
+1184,26,L,82,Pendek
+1185,14,L,72.7,Pendek
+1186,16,P,71.2,Pendek
+1187,27,P,80.5,Pendek
+1188,53,P,95.1,Pendek
+1189,52,P,94,Pendek
+1190,19,P,75,Pendek
+1191,27,P,78.9,Pendek
+1192,59,P,96.5,Pendek
+1193,33,P,80.1,Sangat Pendek
+1194,12,P,69,Pendek
+1195,12,P,69,Pendek
+1196,20,P,76.3,Pendek
+1197,45,P,92.5,Pendek
+1198,34,P,85,Pendek
+1199,10,P,67.3,Pendek
+1200,30,P,79,Sangat Pendek
+1201,17,L,73.1,Sangat Pendek
+1202,20,L,78,Pendek
+1203,16,L,71,Sangat Pendek
+1204,36,P,80,Sangat Pendek
+1205,14,P,71,Pendek
+1206,40,L,91,Pendek
+1207,19,L,77,Pendek
+1208,57,L,96.6,Pendek
+1209,24,P,74,Sangat Pendek
+1210,57,P,96,Pendek
+1211,23,L,81,Pendek
+1212,52,P,95.3,Pendek
+1213,18,P,75,Pendek
+1214,34,P,86,Pendek
+1215,34,L,86,Pendek
+1216,42,L,91,Pendek
+1217,27,P,81,Pendek
+1218,44,P,91,Pendek
+1219,44,P,88,Pendek
+1220,14,P,65.5,Sangat Pendek
+1221,17,L,76,Pendek
+1222,38,L,89,Pendek
+1223,45,L,93.5,Pendek
+1224,10,L,66.7,Pendek
+1225,40,L,87.2,Pendek
+1226,27,L,81,Pendek
+1227,24,L,76,Sangat Pendek
+1228,23,L,81,Pendek
+1229,42,L,92,Pendek
+1230,30,L,85.3,Pendek
+1231,17,L,75.6,Pendek
+1232,40,L,88,Pendek
+1233,49,L,92,Pendek
+1234,27,L,82.1,Pendek
+1235,38,L,88.4,Pendek
+1236,36,L,87,Pendek
+1237,17,P,73,Pendek
+1238,59,L,99,Pendek
+1239,30,L,84.3,Pendek
+1240,53,L,96.7,Pendek
+1241,44,L,89.6,Pendek
+1242,55,L,96.7,Pendek
+1243,55,L,95.3,Pendek
+1244,18,L,77,Pendek
+1245,16,L,75,Pendek
+1246,16,L,74.5,Pendek
+1247,4,L,59,Pendek
+1248,51,L,96,Pendek
+1249,15,L,71.4,Sangat Pendek
+1250,24,L,78.5,Pendek
+1251,24,L,79.7,Pendek
+1252,24,L,80,Pendek
+1253,11,L,69.1,Pendek
+1254,34,P,84.3,Pendek
+1255,53,L,95.8,Pendek
+1256,25,P,79.3,Pendek
+1257,25,L,79.5,Pendek
+1258,12,L,69.7,Pendek
+1259,35,L,87,Pendek
+1260,35,L,87.3,Pendek
+1261,33,L,86,Pendek
+1262,31,L,85,Pendek
+1263,30,L,78.9,Sangat Pendek
+1264,39,L,87,Pendek
+1265,27,L,82.4,Pendek
+1266,50,L,94.7,Pendek
+1267,24,L,81.1,Pendek
+1268,11,L,67.3,Sangat Pendek
+1269,58,L,97,Pendek
+1270,44,L,91.8,Pendek
+1271,6,P,60,Pendek
+1272,42,P,85.5,Sangat Pendek
+1273,29,L,80.5,Sangat Pendek
+1274,7,L,65,Pendek
+1275,38,L,85.7,Sangat Pendek
+1276,38,L,87.7,Pendek
+1277,23,L,80.8,Pendek
+1278,33,L,86.2,Pendek
+1279,44,L,84.1,Sangat Pendek
+1280,31,L,84.2,Pendek
+1281,30,L,80.5,Sangat Pendek
+1282,15,L,73.2,Pendek
+1283,32,L,84,Pendek
+1284,15,L,73.3,Pendek
+1285,23,P,72.8,Sangat Pendek
+1286,15,L,74,Pendek
+1287,37,L,85,Sangat Pendek
+1288,12,L,70,Pendek
+1289,47,L,94.4,Pendek
+1290,56,L,95.9,Pendek
+1291,32,L,86,Pendek
+1292,30,L,82.4,Pendek
+1293,30,L,84.5,Pendek
+1294,39,L,87,Pendek
+1295,38,L,88.2,Pendek
+1296,47,L,89,Sangat Pendek
+1297,34,L,87.9,Pendek
+1298,21,L,76.2,Sangat Pendek
+1299,38,L,88.2,Pendek
+1300,59,L,97.4,Pendek
+1301,22,L,79.2,Pendek
+1302,17,L,74.2,Pendek
+1303,17,L,75.5,Pendek
+1304,38,L,89,Pendek
+1305,25,L,80.5,Pendek
+1306,12,L,70,Pendek
+1307,50,L,93,Pendek
+1308,37,L,86.1,Pendek
+1309,35,P,85,Pendek
+1310,33,L,87,Pendek
+1311,33,P,80,Sangat Pendek
+1312,39,L,85,Sangat Pendek
+1313,15,L,74,Pendek
+1314,24,L,78,Pendek
+1315,23,L,80,Pendek
+1316,58,L,98,Pendek
+1317,57,L,98.1,Pendek
+1318,20,L,74,Sangat Pendek
+1319,20,L,78.7,Pendek
+1320,50,L,90,Sangat Pendek
+1321,28,L,84,Pendek
+1322,39,L,89.4,Pendek
+1323,49,L,94.5,Pendek
+1324,59,L,96.2,Pendek
+1325,19,L,78,Pendek
+1326,29,L,84,Pendek
+1327,18,L,73.1,Sangat Pendek
+1328,27,L,82.6,Pendek
+1329,53,L,96.1,Pendek
+1330,34,L,86.3,Pendek
+1331,31,L,86,Pendek
+1332,50,L,93.2,Pendek
+1333,33,L,85.5,Pendek
+1334,19,L,76,Pendek
+1335,52,L,97.1,Pendek
+1336,26,L,81.5,Pendek
+1337,36,L,88.6,Pendek
+1338,45,L,91.7,Pendek
+1339,44,L,90.2,Pendek
+1340,41,L,86.8,Sangat Pendek
+1341,27,P,81,Pendek
+1342,50,L,93,Pendek
+1343,50,L,92.3,Pendek
+1344,13,L,72.5,Pendek
+1345,45,P,91.1,Pendek
+1346,7,L,63.2,Sangat Pendek
+1347,55,L,96.9,Pendek
+1348,52,L,96.2,Pendek
+1349,38,L,90,Pendek
+1350,24,L,79.4,Pendek
+1351,46,L,92,Pendek
+1352,21,L,80,Pendek
+1353,44,L,93,Pendek
+1354,42,L,88.7,Pendek
+1355,50,L,93.8,Pendek
+1356,17,P,74.7,Pendek
+1357,59,L,98.3,Pendek
+1358,20,L,76.9,Pendek
+1359,6,L,63.9,Pendek
+1360,16,L,73,Sangat Pendek
+1361,35,L,83.8,Sangat Pendek
+1362,34,L,85.7,Pendek
+1363,30,L,84,Pendek
+1364,16,L,72,Sangat Pendek
+1365,51,L,96.5,Pendek
+1366,15,P,70.5,Pendek
+1367,50,L,94,Pendek
+1368,49,L,95.3,Pendek
+1369,56,L,97.5,Pendek
+1370,20,L,76.5,Pendek
+1371,43,L,90.9,Pendek
+1372,42,L,90.5,Pendek
+1373,53,L,93.7,Pendek
+1374,41,L,88.6,Pendek
+1375,26,P,74,Sangat Pendek
+1376,13,L,65.9,Sangat Pendek
+1377,13,L,70,Sangat Pendek
+1378,38,L,86.9,Pendek
+1379,41,L,91.5,Pendek
+1380,43,L,92,Pendek
+1381,18,P,74,Pendek
+1382,41,L,89.7,Pendek
+1383,52,L,96,Pendek
+1384,27,P,77.7,Sangat Pendek
+1385,12,L,69,Pendek
+1386,34,L,85.4,Pendek
+1387,45,L,91.5,Pendek
+1388,43,L,90,Pendek
+1389,7,L,63.5,Pendek
+1390,40,L,88.9,Pendek
+1391,12,L,70,Pendek
+1392,36,L,87.8,Pendek
+1393,59,L,95.5,Sangat Pendek
+1394,59,L,99,Pendek
+1395,59,P,99,Pendek
+1396,31,L,83.5,Pendek
+1397,54,L,96.6,Pendek
+1398,18,L,75.1,Pendek
+1399,5,L,57,Sangat Pendek
+1400,58,L,99,Pendek
+1401,33,L,83,Sangat Pendek
+1402,55,L,96,Pendek
+1403,19,L,75,Sangat Pendek
+1404,40,L,88,Pendek
+1405,28,L,84.2,Pendek
+1406,27,L,81.5,Pendek
+1407,38,L,89.4,Pendek
+1408,56,L,91.1,Sangat Pendek
+1409,31,L,83.5,Pendek
+1410,29,P,82,Pendek
+1411,29,L,81.2,Sangat Pendek
+1412,39,P,88.2,Pendek
+1413,15,P,69,Sangat Pendek
+1414,38,P,87,Pendek
+1415,49,P,94,Pendek
+1416,13,P,70,Pendek
+1417,58,P,99.1,Pendek
+1418,34,P,84,Pendek
+1419,33,P,85.4,Pendek
+1420,33,P,84.4,Pendek
+1421,20,P,76.6,Pendek
+1422,43,P,84.3,Sangat Pendek
+1423,56,P,92.5,Sangat Pendek
+1424,42,P,91,Pendek
+1425,35,P,87,Pendek
+1426,58,P,98.3,Pendek
+1427,45,P,90.8,Pendek
+1428,7,P,62.5,Pendek
+1429,16,P,73,Pendek
+1430,45,P,87.7,Sangat Pendek
+1431,16,P,72.5,Pendek
+1432,27,P,79.1,Pendek
+1433,34,P,85.7,Pendek
+1434,22,P,76,Pendek
+1435,18,P,73,Pendek
+1436,54,P,96.2,Pendek
+1437,53,P,96.2,Pendek
+1438,4,P,57.7,Pendek
+1439,38,P,88.4,Pendek
+1440,33,P,85.8,Pendek
+1441,21,P,75.8,Pendek
+1442,19,P,75,Pendek
+1443,28,P,79.5,Pendek
+1444,49,P,93.5,Pendek
+1445,25,P,78.5,Pendek
+1446,35,P,86.6,Pendek
+1447,30,P,83.7,Pendek
+1448,52,P,95.5,Pendek
+1449,33,P,82.5,Pendek
+1450,27,P,80,Pendek
+1451,25,P,77.7,Pendek
+1452,24,P,78,Pendek
+1453,21,P,75,Pendek
+1454,30,P,78.8,Sangat Pendek
+1455,41,P,90,Pendek
+1456,51,P,95.5,Pendek
+1457,39,P,88.7,Pendek
+1458,38,L,88.7,Pendek
+1459,38,P,84.2,Sangat Pendek
+1460,20,P,75.6,Pendek
+1461,43,P,89.4,Pendek
+1462,15,P,69.3,Sangat Pendek
+1463,37,P,87,Pendek
+1464,59,L,92.4,Sangat Pendek
+1465,47,P,91.7,Pendek
+1466,58,P,99,Pendek
+1467,45,P,91.4,Pendek
+1468,31,P,83.5,Pendek
+1469,40,P,89,Pendek
+1470,39,P,85.2,Sangat Pendek
+1471,27,P,77.2,Sangat Pendek
+1472,15,P,71,Pendek
+1473,25,P,79,Pendek
+1474,26,P,79.2,Pendek
+1475,58,P,91.5,Sangat Pendek
+1476,33,P,85.5,Pendek
+1477,29,P,81.5,Pendek
+1478,42,L,89.3,Pendek
+1479,29,P,80.1,Pendek
+1480,15,P,72,Pendek
+1481,14,L,72.5,Pendek
+1482,37,P,87.4,Pendek
+1483,45,P,92,Pendek
+1484,31,P,84,Pendek
+1485,18,P,75,Pendek
+1486,38,P,84.5,Sangat Pendek
+1487,35,P,86,Pendek
+1488,48,P,93,Pendek
+1489,57,P,98,Pendek
+1490,19,L,77.4,Pendek
+1491,33,P,84.5,Pendek
+1492,20,P,76,Pendek
+1493,30,P,83.2,Pendek
+1494,24,P,78,Pendek
+1495,23,P,76.4,Sangat Pendek
+1496,32,P,82.5,Pendek
+1497,43,P,89.6,Pendek
+1498,43,P,89.8,Pendek
+1499,53,P,94.9,Pendek
+1500,40,P,88,Pendek
+1501,33,P,85.5,Pendek
+1502,49,P,91.2,Pendek
+1503,21,P,77.3,Pendek
+1504,19,P,75.5,Pendek
+1505,46,P,92.1,Pendek
+1506,33,P,86,Pendek
+1507,19,P,76,Pendek
+1508,54,P,94,Pendek
+1509,36,P,86,Pendek
+1510,34,P,81.1,Sangat Pendek
+1511,20,P,74.2,Sangat Pendek
+1512,54,P,97.2,Pendek
+1513,42,P,89.9,Pendek
+1514,26,P,81.1,Pendek
+1515,48,P,94.1,Pendek
+1516,46,P,91.2,Pendek
+1517,34,P,86.6,Pendek
+1518,49,P,93,Pendek
+1519,47,P,92.6,Pendek
+1520,33,P,85.1,Pendek
+1521,22,P,76,Pendek
+1522,18,P,75,Pendek
+1523,29,P,81,Pendek
+1524,52,P,94,Pendek
+1525,46,P,84.6,Sangat Pendek
+1526,31,P,84.3,Pendek
+1527,42,P,91,Pendek
+1528,27,P,79,Pendek
+1529,49,P,94.7,Pendek
+1530,37,P,83.6,Sangat Pendek
+1531,23,P,79.2,Pendek
+1532,20,P,77,Pendek
+1533,27,P,80.7,Pendek
+1534,24,P,79.3,Pendek
+1535,23,P,75.5,Sangat Pendek
+1536,23,P,79.2,Pendek
+1537,20,P,75.3,Pendek
+1538,20,P,72.3,Sangat Pendek
+1539,40,P,87.2,Pendek
+1540,26,P,80.5,Pendek
+1541,34,P,86,Pendek
+1542,10,P,65.1,Pendek
+1543,19,P,75.6,Pendek
+1544,41,P,90.5,Pendek
+1545,17,P,74.3,Pendek
+1546,51,P,95.5,Pendek
+1547,49,P,91.5,Pendek
+1548,56,P,97.5,Pendek
+1549,32,P,85,Pendek
+1550,53,P,92,Sangat Pendek
+1551,25,P,80,Pendek
+1552,24,P,78.6,Pendek
+1553,57,P,96.6,Pendek
+1554,31,P,82.9,Pendek
+1555,53,P,94.2,Pendek
+1556,1,P,50,Pendek
+1557,33,P,84.6,Pendek
+1558,41,P,83.2,Sangat Pendek
+1559,38,P,87.7,Pendek
+1560,26,P,78.9,Pendek
+1561,24,P,79,Pendek
+1562,34,P,82.9,Pendek
+1563,20,P,76.5,Pendek
+1564,55,P,97,Pendek
+1565,18,P,73.5,Pendek
+1566,40,P,89.3,Pendek
+1567,38,P,88,Pendek
+1568,42,P,89.7,Pendek
+1569,42,P,86.5,Sangat Pendek
+1570,18,P,71,Sangat Pendek
+1571,51,P,91.6,Pendek
+1572,15,P,69.8,Sangat Pendek
+1573,58,L,97,Pendek
+1574,55,P,95.3,Pendek
+1575,31,P,80,Sangat Pendek
+1576,45,P,90.6,Pendek
+1577,40,L,88,Pendek
+1578,38,L,89,Pendek
+1579,29,L,82.5,Pendek
+1580,3,L,57.3,Pendek
+1581,30,L,81.4,Sangat Pendek
+1582,35,L,84.6,Sangat Pendek
+1583,22,L,80.2,Pendek
+1584,21,L,76.5,Sangat Pendek
+1585,16,L,74,Pendek
+1586,19,L,76.5,Pendek
+1587,18,L,76.3,Pendek
+1588,16,L,73,Pendek
+1589,18,L,76.6,Pendek
+1590,21,L,79.2,Pendek
+1591,18,L,74,Sangat Pendek
+1592,29,L,83.5,Pendek
+1593,27,L,82,Pendek
+1594,0,L,45,Pendek
+1595,15,L,73,Pendek
+1596,17,P,72,Pendek
+1597,28,P,81,Pendek
+1598,54,P,95.4,Pendek
+1599,53,P,94.4,Pendek
+1600,28,P,79,Pendek
+1601,59,P,96.5,Pendek
+1602,35,P,81,Sangat Pendek
+1603,32,P,82,Pendek
+1604,13,P,70,Pendek
+1605,13,P,70,Pendek
+1606,21,P,76.4,Pendek
+1607,46,P,93,Pendek
+1608,35,P,85.7,Pendek
+1609,11,P,67.3,Pendek
+1610,31,P,79,Sangat Pendek
+1611,18,L,73.4,Sangat Pendek
+1612,17,L,72,Sangat Pendek
+1613,37,P,81,Sangat Pendek
+1614,15,P,72,Pendek
+1615,41,L,91.6,Pendek
+1616,20,L,77.5,Pendek
+1617,58,L,96.6,Pendek
+1618,25,P,74.1,Sangat Pendek
+1619,58,P,96,Pendek
+1620,53,P,95.5,Pendek
+1621,35,P,87,Pendek
+1622,43,L,91.5,Pendek
+1623,28,P,82,Pendek
+1624,50,P,95,Pendek
+1625,45,P,92,Pendek
+1626,44,P,89,Pendek
+1627,15,P,65.7,Sangat Pendek
+1628,52,L,97,Pendek
+1629,16,L,74.5,Pendek
+1630,39,L,89,Pendek
+1631,23,L,81.3,Pendek
+1632,11,L,66.8,Sangat Pendek
+1633,54,L,97.3,Pendek
+1634,41,L,87,Sangat Pendek
+1635,28,L,82,Pendek
+1636,25,L,76.5,Sangat Pendek
+1637,24,L,81.7,Pendek
+1638,23,L,81,Pendek
+1639,18,L,76.6,Pendek
+1640,41,L,90,Pendek
+1641,50,L,93,Pendek
+1642,28,L,82.1,Pendek
+1643,39,L,88.5,Pendek
+1644,37,L,87.5,Pendek
+1645,19,L,76.1,Pendek
+1646,18,P,74,Pendek
+1647,23,L,79.6,Pendek
+1648,31,L,84.3,Pendek
+1649,45,L,89.7,Pendek
+1650,56,L,96.7,Pendek
+1651,56,L,95.9,Pendek
+1652,19,L,77.3,Pendek
+1653,17,L,75.1,Pendek
+1654,17,L,75,Pendek
+1655,5,L,61.8,Pendek
+1656,52,L,96.4,Pendek
+1657,25,L,81.6,Pendek
+1658,12,L,70,Pendek
+1659,54,L,95.9,Pendek
+1660,28,L,84,Pendek
+1661,26,P,79.3,Pendek
+1662,26,L,80,Pendek
+1663,12,L,69.9,Pendek
+1664,36,L,87,Pendek
+1665,36,L,87.6,Pendek
+1666,34,L,87,Pendek
+1667,32,L,85,Pendek
+1668,31,L,78.9,Sangat Pendek
+1669,40,L,87.5,Pendek
+1670,28,L,82.6,Pendek
+1671,50,L,95.4,Pendek
+1672,25,L,81.7,Pendek
+1673,11,L,68.5,Pendek
+1674,59,L,97.5,Pendek
+1675,45,L,91.8,Pendek
+1676,43,P,86,Sangat Pendek
+1677,30,L,80.7,Sangat Pendek
+1678,8,L,66,Pendek
+1679,29,L,84,Pendek
+1680,39,L,86.5,Sangat Pendek
+1681,39,L,87.8,Pendek
+1682,24,L,80.8,Pendek
+1683,34,L,87.1,Pendek
+1684,45,L,85,Sangat Pendek
+1685,32,L,84.3,Pendek
+1686,31,L,80.7,Sangat Pendek
+1687,15,L,74.5,Pendek
+1688,16,L,75.1,Pendek
+1689,33,L,84.5,Pendek
+1690,6,L,62.3,Pendek
+1691,16,L,74,Pendek
+1692,38,L,88,Pendek
+1693,13,L,71,Pendek
+1694,49,L,94.6,Pendek
+1695,56,L,96,Pendek
+1696,32,L,86.6,Pendek
+1697,31,L,83,Pendek
+1698,31,L,85,Pendek
+1699,40,L,88,Pendek
+1700,39,L,88.2,Pendek
+1701,20,L,78.2,Pendek
+1702,38,L,88.5,Pendek
+1703,59,L,99.8,Pendek
+1704,22,L,79.5,Pendek
+1705,18,L,75.5,Pendek
+1706,26,L,81,Pendek
+1707,51,L,93.7,Pendek
+1708,37,L,87.1,Pendek
+1709,35,P,85.1,Pendek
+1710,34,L,87,Pendek
+1711,33,P,82,Sangat Pendek
+1712,29,L,84.6,Pendek
+1713,40,L,87,Sangat Pendek
+1714,24,L,80.2,Pendek
+1715,24,L,80,Pendek
+1716,59,L,98,Pendek
+1717,58,L,98.5,Pendek
+1718,21,L,75,Sangat Pendek
+1719,21,L,79,Pendek
+1720,51,L,90,Sangat Pendek
+1721,19,L,77.5,Pendek
+1722,40,L,90,Pendek
+1723,30,L,84.5,Pendek
+1724,19,L,73.5,Sangat Pendek
+1725,28,L,82.8,Pendek
+1726,54,L,96.1,Pendek
+1727,35,L,87.5,Pendek
+1728,0,L,39,Sangat Pendek
+1729,44,P,91,Pendek
+1730,32,L,86,Pendek
+1731,18,L,77.5,Pendek
+1732,51,L,93.2,Pendek
+1733,34,L,85.6,Pendek
+1734,21,L,79.5,Pendek
+1735,20,L,76.8,Pendek
+1736,53,L,97.1,Pendek
+1737,27,L,82,Pendek
+1738,46,L,91.7,Pendek
+1739,34,L,80,Sangat Pendek
+1740,21,L,80,Pendek
+1741,44,L,90.5,Pendek
+1742,28,P,81,Pendek
+1743,51,L,95,Pendek
+1744,51,L,93,Pendek
+1745,14,L,72.7,Pendek
+1746,46,P,91.6,Pendek
+1747,8,L,63.2,Sangat Pendek
+1748,19,L,77.6,Pendek
+1749,55,L,97,Pendek
+1750,53,L,96.7,Pendek
+1751,25,L,79.4,Pendek
+1752,47,L,93,Pendek
+1753,22,L,78,Pendek
+1754,43,L,88.7,Pendek
+1755,51,L,96,Pendek
+1756,18,P,75.1,Pendek
+1757,1,L,49.5,Sangat Pendek
+1758,22,L,80.2,Pendek
+1759,21,L,76.9,Pendek
+1760,17,L,73,Sangat Pendek
+1761,17,L,74,Pendek
+1762,36,L,83.9,Sangat Pendek
+1763,35,L,86.1,Pendek
+1764,31,L,84.2,Pendek
+1765,18,L,77,Pendek
+1766,17,L,72,Sangat Pendek
+1767,52,L,97,Pendek
+1768,16,P,72,Pendek
+1769,50,L,95.5,Pendek
+1770,57,L,97.5,Pendek
+1771,21,L,76.5,Sangat Pendek
+1772,43,L,91.5,Pendek
+1773,54,L,93.9,Pendek
+1774,42,L,88.7,Pendek
+1775,14,L,70.5,Sangat Pendek
+1776,24,L,81.8,Pendek
+1777,39,L,87,Pendek
+1778,42,L,91.7,Pendek
+1779,44,L,92.8,Pendek
+1780,42,L,89.9,Pendek
+1781,28,P,78.6,Sangat Pendek
+1782,13,L,69.1,Sangat Pendek
+1783,47,L,95,Pendek
+1784,35,L,86,Pendek
+1785,0,L,45,Pendek
+1786,46,L,92.7,Pendek
+1787,44,L,91,Pendek
+1788,41,L,89,Pendek
+1789,13,L,70.1,Pendek
+1790,37,L,88.1,Pendek
+1791,44,P,92.1,Pendek
+1792,8,P,64.2,Pendek
+1793,32,L,84.6,Pendek
+1794,55,L,97,Pendek
+1795,19,L,76.5,Pendek
+1796,15,L,74.5,Pendek
+1797,59,L,100.2,Pendek
+1798,34,L,83,Sangat Pendek
+1799,56,L,96.1,Pendek
+1800,20,L,75,Sangat Pendek
+1801,28,L,81.5,Pendek
+1802,39,L,90.1,Pendek
+1803,57,L,91.6,Sangat Pendek
+1804,32,L,84.5,Pendek
+1805,30,P,82.2,Pendek
+1806,30,L,81.4,Sangat Pendek
+1807,40,P,88.6,Pendek
+1808,16,P,69.5,Sangat Pendek
+1809,39,P,87,Pendek
+1810,50,P,94.7,Pendek
+1811,59,P,99.1,Pendek
+1812,35,P,84,Pendek
+1813,34,P,85.7,Pendek
+1814,29,L,84.5,Pendek
+1815,23,P,78.2,Pendek
+1816,34,P,85,Pendek
+1817,57,P,98.5,Pendek
+1818,21,P,77.5,Pendek
+1819,44,P,84.5,Sangat Pendek
+1820,57,P,92,Sangat Pendek
+1821,36,P,87.6,Pendek
+1822,59,P,98.8,Pendek
+1823,47,P,92,Pendek
+1824,46,P,91.5,Pendek
+1825,8,P,62.6,Pendek
+1826,17,P,74,Pendek
+1827,46,P,88,Sangat Pendek
+1828,29,P,83,Pendek
+1829,28,P,80.1,Pendek
+1830,35,P,85.8,Pendek
+1831,23,P,76.8,Pendek
+1832,19,P,73.5,Pendek
+1833,3,P,55,Pendek
+1834,34,P,84.5,Pendek
+1835,55,P,96.2,Pendek
+1836,5,P,57.8,Pendek
+1837,49,P,94,Pendek
+1838,35,P,84.1,Pendek
+1839,21,P,75.8,Pendek
+1840,20,P,76,Pendek
+1841,31,P,84,Pendek
+1842,29,P,80.2,Pendek
+1843,50,P,94.2,Pendek
+1844,26,P,78.5,Pendek
+1845,36,P,87,Pendek
+1846,53,P,96.5,Pendek
+1847,17,P,72.8,Pendek
+1848,33,P,82.5,Pendek
+1849,27,P,81.5,Pendek
+1850,26,P,77.8,Sangat Pendek
+1851,25,P,78.3,Pendek
+1852,22,P,75,Sangat Pendek
+1853,33,P,82.5,Pendek
+1854,19,P,76,Pendek
+1855,31,P,84.3,Pendek
+1856,19,P,75.5,Pendek
+1857,40,P,88.7,Pendek
+1858,39,L,89,Pendek
+1859,39,P,84.4,Sangat Pendek
+1860,44,P,89.6,Pendek
+1861,40,L,86,Sangat Pendek
+1862,38,P,87.8,Pendek
+1863,59,L,92.4,Sangat Pendek
+1864,48,P,91.8,Pendek
+1865,46,P,91.6,Pendek
+1866,32,P,84,Pendek
+1867,41,P,89.6,Pendek
+1868,40,P,85.8,Sangat Pendek
+1869,28,P,78,Sangat Pendek
+1870,16,P,71.5,Pendek
+1871,26,P,78,Sangat Pendek
+1872,27,P,79.9,Pendek
+1873,50,P,95,Pendek
+1874,59,P,92,Sangat Pendek
+1875,23,P,79,Pendek
+1876,33,P,85.7,Pendek
+1877,30,P,82.3,Pendek
+1878,43,L,90.3,Pendek
+1879,30,P,80.7,Pendek
+1880,15,L,72.7,Pendek
+1881,38,P,87.5,Pendek
+1882,32,P,84.3,Pendek
+1883,7,P,63.1,Pendek
+1884,38,P,88.8,Pendek
+1885,35,P,86.8,Pendek
+1886,48,P,93.9,Pendek
+1887,57,P,98.9,Pendek
+1888,20,L,78.3,Pendek
+1889,34,P,84.7,Pendek
+1890,21,P,76.5,Pendek
+1891,20,P,77,Pendek
+1892,31,P,83.4,Pendek
+1893,25,P,79,Pendek
+1894,24,P,76.5,Sangat Pendek
+1895,32,P,82.5,Pendek
+1896,44,P,90.7,Pendek
+1897,43,P,89.9,Pendek
+1898,54,P,95,Pendek
+1899,41,P,88.3,Pendek
+1900,50,P,92,Pendek
+1901,48,P,92.1,Pendek
+1902,22,P,78.8,Pendek
+1903,20,P,75.6,Pendek
+1904,47,P,93.6,Pendek
+1905,34,P,86,Pendek
+1906,20,P,76.5,Pendek
+1907,55,P,95,Pendek
+1908,3,P,56.7,Pendek
+1909,36,P,87.6,Pendek
+1910,34,P,81.1,Sangat Pendek
+1911,21,P,75,Sangat Pendek
+1912,44,P,88.6,Pendek
+1913,43,P,90.5,Pendek
+1914,49,P,94.7,Pendek
+1915,47,P,91.2,Pendek
+1916,50,P,93.2,Pendek
+1917,25,P,80,Pendek
+1918,48,P,92.8,Pendek
+1919,34,P,86.1,Pendek
+1920,22,P,70,Sangat Pendek
+1921,8,P,65,Pendek
+1922,30,P,81.4,Pendek
+1923,53,P,94,Pendek
+1924,47,P,84.8,Sangat Pendek
+1925,21,P,78,Pendek
+1926,32,P,84.3,Pendek
+1927,28,P,79.5,Pendek
+1928,50,P,95,Pendek
+1929,38,P,84,Sangat Pendek
+1930,24,P,79.4,Pendek
+1931,21,P,77.5,Pendek
+1932,24,P,75.6,Sangat Pendek
+1933,24,P,79.6,Pendek
+1934,21,P,76,Pendek
+1935,41,P,87.8,Pendek
+1936,27,P,80.6,Pendek
+1937,11,P,65.4,Sangat Pendek
+1938,52,P,96,Pendek
+1939,50,P,92.5,Pendek
+1940,33,P,85,Pendek
+1941,54,P,92.6,Sangat Pendek
+1942,25,P,78.8,Pendek
+1943,58,P,97.8,Pendek
+1944,46,P,90.3,Pendek
+1945,32,P,83.6,Pendek
+1946,20,P,76.2,Pendek
+1947,54,P,94.4,Pendek
+1948,35,P,86.9,Pendek
+1949,34,P,85,Pendek
+1950,21,P,77.8,Pendek
+1951,20,P,76.4,Pendek
+1952,42,P,83.3,Sangat Pendek
+1953,39,P,88.2,Pendek
+1954,27,P,79.4,Pendek
+1955,25,P,79,Pendek
+1956,35,P,83.5,Pendek
+1957,56,P,97.2,Pendek
+1958,19,P,76,Pendek
+1959,41,P,90,Pendek
+1960,17,L,75.2,Pendek
+1961,39,P,88.6,Pendek
+1962,43,P,90.7,Pendek
+1963,43,P,86.5,Sangat Pendek
+1964,19,P,72,Sangat Pendek
+1965,54,P,97,Pendek
+1966,52,P,92.4,Pendek
+1967,16,P,72.2,Pendek
+1968,58,L,97,Pendek
+1969,56,P,95.4,Pendek
+1970,32,P,85,Pendek
+1971,32,P,80,Sangat Pendek
+1972,54,P,95,Pendek
+1973,46,P,91.5,Pendek
+1974,41,L,88.9,Pendek
+1975,39,L,90,Pendek
+1976,30,L,83,Pendek
+1977,31,L,81.5,Sangat Pendek
+1978,36,L,85.2,Pendek
+1979,23,L,80.3,Pendek
+1980,17,L,74.5,Pendek
+1981,20,L,77.2,Pendek
+1982,19,L,76.5,Pendek
+1983,17,L,73.2,Sangat Pendek
+1984,19,L,77.7,Pendek
+1985,35,L,88,Pendek
+1986,22,L,79.5,Pendek
+1987,19,L,74.2,Sangat Pendek
+1988,29,L,84.5,Pendek
+1989,28,L,85,Pendek
+1990,0,L,45,Pendek
+1991,16,L,74,Pendek
+1992,18,P,73.2,Pendek
+1993,29,P,81.5,Pendek
+1994,55,P,95.4,Pendek
+1995,54,P,94.4,Pendek
+1996,37,P,84.7,Pendek
+1997,29,P,79.6,Pendek
+1998,36,P,82,Sangat Pendek
+1999,33,P,82.5,Pendek
+2000,14,P,71,Pendek
+2001,14,P,71,Pendek
+2002,22,P,76.7,Pendek
+2003,47,P,93.3,Pendek
+2004,36,P,85.8,Pendek
+2005,12,P,68,Pendek
+2006,19,L,74.5,Sangat Pendek
+2007,22,L,80,Pendek
+2008,18,L,73,Sangat Pendek
+2009,38,P,81,Sangat Pendek
+2010,16,P,73,Pendek
+2011,21,L,79.4,Pendek
+2012,18,L,76,Pendek
+2013,26,P,74.5,Sangat Pendek
+2014,59,P,98.2,Pendek
+2015,16,L,75.6,Pendek
+2016,22,P,79,Pendek
+2017,29,P,83,Pendek
+2018,51,P,95.2,Pendek
+2019,46,P,90,Pendek
+2020,16,P,66.1,Sangat Pendek
+2021,53,L,97,Pendek
+2022,17,L,74.9,Pendek
+2023,40,L,90,Pendek
+2024,47,L,94,Pendek
+2025,24,L,81.5,Pendek
+2026,55,L,97.4,Pendek
+2027,42,L,87.5,Sangat Pendek
+2028,29,L,82,Pendek
+2029,26,L,76,Sangat Pendek
+2030,25,L,80,Pendek
+2031,24,L,81.1,Pendek
+2032,12,L,71,Pendek
+2033,22,L,80,Pendek
+2034,44,L,93,Pendek
+2035,8,L,66.5,Pendek
+2036,19,L,76.7,Pendek
+2037,42,L,91.5,Pendek
+2038,51,L,93,Pendek
+2039,29,L,82.8,Pendek
+2040,40,L,89,Pendek
+2041,38,L,87.5,Pendek
+2042,21,L,79.2,Pendek
+2043,20,L,76.4,Pendek
+2044,19,P,75,Pendek
+2045,5,L,62,Pendek
+2046,13,L,71.3,Pendek
+2047,24,L,79.7,Pendek
+2048,55,L,98,Pendek
+2049,57,L,96.7,Pendek
+2050,57,L,96.5,Pendek
+2051,18,L,75.8,Pendek
+2052,6,L,61.8,Pendek
+2053,53,L,96.4,Pendek
+2054,25,L,81.6,Pendek
+2055,13,L,72,Pendek
+2056,36,P,85.5,Pendek
+2057,34,L,87.2,Pendek
+2058,55,L,95.8,Pendek
+2059,29,L,84,Pendek
+2060,27,P,80,Pendek
+2061,27,L,80.7,Pendek
+2062,37,L,87.3,Pendek
+2063,37,L,89,Pendek
+2064,35,L,87.2,Pendek
+2065,33,L,85,Pendek
+2066,44,L,93,Pendek
+2067,32,L,79.1,Sangat Pendek
+2068,29,L,83.4,Pendek
+2069,52,L,95.9,Pendek
+2070,26,L,81.7,Pendek
+2071,46,L,92,Pendek
+2072,44,P,86.4,Sangat Pendek
+2073,31,L,82.6,Pendek
+2074,49,L,94.5,Pendek
+2075,9,L,67,Pendek
+2076,30,L,84,Pendek
+2077,40,L,87.5,Pendek
+2078,40,L,87.9,Pendek
+2079,25,L,80.8,Pendek
+2080,35,L,87.6,Pendek
+2081,46,L,86,Sangat Pendek
+2082,33,L,84.6,Pendek
+2083,32,L,81.5,Sangat Pendek
+2084,16,L,74.5,Pendek
+2085,17,L,75.5,Pendek
+2086,21,L,80,Pendek
+2087,34,L,83.4,Sangat Pendek
+2088,14,L,72,Pendek
+2089,50,L,95,Pendek
+2090,57,L,96.2,Pendek
+2091,34,L,87,Pendek
+2092,32,L,83,Sangat Pendek
+2093,20,L,77.8,Pendek
+2094,41,L,88.7,Pendek
+2095,40,L,89,Pendek
+2096,49,L,89,Sangat Pendek
+2097,37,L,89,Pendek
+2098,0,L,45,Pendek
+2099,10,L,68.1,Pendek
+2100,43,L,88.6,Pendek
+2101,40,L,89.1,Pendek
+2102,27,L,83.4,Pendek
+2103,15,P,67,Sangat Pendek
+2104,24,L,81,Pendek
+2105,40,L,91,Pendek
+2106,28,L,81.2,Pendek
+2107,44,L,92.3,Pendek
+2108,55,L,94.2,Pendek
+2109,5,L,63,Pendek
+2110,28,L,84.1,Pendek
+2111,53,L,93.8,Pendek
+2112,39,L,88,Pendek
+2113,37,P,85.2,Pendek
+2114,35,L,88,Pendek
+2115,35,P,83.5,Pendek
+2116,30,L,85,Pendek
+2117,41,L,87,Sangat Pendek
+2118,29,L,84.2,Pendek
+2119,16,L,75.5,Pendek
+2120,40,L,90.4,Pendek
+2121,26,L,78,Sangat Pendek
+2122,26,L,80.3,Pendek
+2123,25,L,81,Pendek
+2124,22,L,79.5,Pendek
+2125,31,L,83.5,Pendek
+2126,20,L,77.8,Pendek
+2127,18,P,74.2,Pendek
+2128,41,L,90.9,Pendek
+2129,52,L,96.7,Pendek
+2130,47,L,94.5,Pendek
+2131,21,L,79,Pendek
+2132,32,L,85,Pendek
+2133,29,L,82.9,Pendek
+2134,55,L,98.2,Pendek
+2135,36,L,86.8,Pendek
+2136,46,P,93,Pendek
+2137,34,L,87.5,Pendek
+2138,20,L,77.5,Pendek
+2139,53,L,93.2,Pendek
+2140,0,L,49,Pendek
+2141,35,L,87,Pendek
+2142,22,L,79.8,Pendek
+2143,34,L,87.5,Pendek
+2144,21,L,77,Pendek
+2145,7,L,65,Pendek
+2146,54,L,97.5,Pendek
+2147,28,L,82.4,Pendek
+2148,13,L,72.6,Pendek
+2149,47,L,93,Pendek
+2150,22,L,80.8,Pendek
+2151,10,L,68.5,Pendek
+2152,45,L,91,Pendek
+2153,43,L,86.5,Sangat Pendek
+2154,18,L,77.2,Pendek
+2155,29,P,81,Pendek
+2156,52,L,94.8,Pendek
+2157,52,L,93,Pendek
+2158,47,P,91.8,Pendek
+2159,20,L,78.2,Pendek
+2160,57,L,97.5,Pendek
+2161,54,L,96.7,Pendek
+2162,39,L,86,Sangat Pendek
+2163,26,L,79.6,Sangat Pendek
+2164,48,L,93,Pendek
+2165,23,L,78,Pendek
+2166,44,L,90.5,Pendek
+2167,52,L,96.3,Pendek
+2168,19,P,75.9,Pendek
+2169,12,L,71.1,Pendek
+2170,22,L,78.1,Pendek
+2171,18,L,75,Pendek
+2172,37,L,84.1,Sangat Pendek
+2173,10,L,65.5,Sangat Pendek
+2174,32,L,86,Pendek
+2175,18,L,73,Sangat Pendek
+2176,52,L,95,Pendek
+2177,51,L,96,Pendek
+2178,36,L,88.9,Pendek
+2179,0,L,43,Sangat Pendek
+2180,58,L,97.5,Pendek
+2181,46,L,92.5,Pendek
+2182,22,L,77,Sangat Pendek
+2183,9,L,68.3,Pendek
+2184,44,L,92,Pendek
+2185,55,L,93.9,Sangat Pendek
+2186,43,L,89,Pendek
+2187,42,P,90.8,Pendek
+2188,28,P,74.2,Sangat Pendek
+2189,15,L,67.2,Sangat Pendek
+2190,15,L,70.9,Sangat Pendek
+2191,3,L,58.7,Pendek
+2192,40,L,87.8,Pendek
+2193,43,L,92.5,Pendek
+2194,45,L,93.5,Pendek
+2195,20,P,76.5,Pendek
+2196,43,L,90,Pendek
+2197,14,L,72.5,Pendek
+2198,36,L,87,Pendek
+2199,0,L,48,Pendek
+2200,47,L,93.1,Pendek
+2201,35,L,88.3,Pendek
+2202,45,L,91.1,Pendek
+2203,42,L,89.2,Pendek
+2204,14,L,70.2,Sangat Pendek
+2205,38,L,88.9,Pendek
+2206,21,P,76,Pendek
+2207,9,P,65,Pendek
+2208,33,L,85.5,Pendek
+2209,56,L,97.3,Pendek
+2210,20,L,76.7,Pendek
+2211,16,L,74.5,Pendek
+2212,35,L,85,Pendek
+2213,57,L,96.5,Pendek
+2214,7,L,64.6,Pendek
+2215,29,L,82.5,Pendek
+2216,40,L,90.3,Pendek
+2217,58,L,92,Sangat Pendek
+2218,33,L,84.6,Pendek
+2219,33,L,87,Pendek
+2220,31,P,82.8,Pendek
+2221,31,L,82,Sangat Pendek
+2222,17,P,69.6,Sangat Pendek
+2223,40,P,87.4,Pendek
+2224,15,P,71.8,Pendek
+2225,36,P,84.7,Pendek
+2226,35,P,86,Pendek
+2227,18,P,74.9,Pendek
+2228,24,P,78.8,Pendek
+2229,35,P,86.2,Pendek
+2230,22,P,78,Pendek
+2231,45,P,86.2,Sangat Pendek
+2232,58,P,92.9,Sangat Pendek
+2233,52,L,97,Pendek
+2234,37,P,88,Pendek
+2235,48,P,92,Pendek
+2236,47,P,91.5,Pendek
+2237,9,P,62.7,Sangat Pendek
+2238,18,P,75,Pendek
+2239,0,P,45,Pendek
+2240,47,P,88,Sangat Pendek
+2241,29,P,80.1,Pendek
+2242,36,P,86,Pendek
+2243,24,P,76.9,Sangat Pendek
+2244,20,P,73.5,Sangat Pendek
+2245,35,P,85,Pendek
+2246,6,P,60.7,Pendek
+2247,50,P,94.8,Pendek
+2248,26,P,81.5,Pendek
+2249,36,P,85.6,Pendek
+2250,35,P,86.8,Pendek
+2251,23,P,76.5,Pendek
+2252,21,P,77,Pendek
+2253,32,P,84.4,Pendek
+2254,43,P,90,Pendek
+2255,30,P,80.6,Pendek
+2256,27,P,79,Pendek
+2257,54,P,96.5,Pendek
+2258,18,P,73,Pendek
+2259,27,P,77.8,Sangat Pendek
+2260,26,P,78.4,Pendek
+2261,23,P,75.8,Sangat Pendek
+2262,34,P,82.7,Pendek
+2263,32,P,84.3,Pendek
+2264,20,P,75.5,Pendek
+2265,41,P,88.5,Pendek
+2266,40,L,89.5,Pendek
+2267,40,P,84.4,Sangat Pendek
+2268,24,P,80,Pendek
+2269,22,P,75.8,Pendek
+2270,45,P,89.8,Pendek
+2271,41,L,86.2,Sangat Pendek
+2272,17,P,71.4,Pendek
+2273,39,P,87.8,Pendek
+2274,34,P,84.4,Pendek
+2275,20,P,76.1,Pendek
+2276,42,P,90.2,Pendek
+2277,41,P,86,Sangat Pendek
+2278,29,P,81,Pendek
+2279,17,P,72,Pendek
+2280,28,P,81.5,Pendek
+2281,28,P,80.3,Pendek
+2282,51,P,95,Pendek
+2283,35,P,85.9,Pendek
+2284,32,P,82.3,Pendek
+2285,45,L,91,Pendek
+2286,31,P,80.8,Pendek
+2287,16,L,74.6,Pendek
+2288,39,P,88,Pendek
+2289,33,P,84.6,Pendek
+2290,8,P,65,Pendek
+2291,39,P,88.9,Pendek
+2292,37,P,86.8,Pendek
+2293,50,P,94.5,Pendek
+2294,58,P,99.2,Pendek
+2295,20,L,78.6,Pendek
+2296,35,P,84.8,Pendek
+2297,21,P,77,Pendek
+2298,32,P,83.4,Pendek
+2299,6,P,62.5,Pendek
+2300,26,P,79,Pendek
+2301,26,P,75.7,Sangat Pendek
+2302,34,P,82.7,Pendek
+2303,44,P,89.9,Pendek
+2304,56,P,95.5,Pendek
+2305,42,P,88.6,Pendek
+2306,52,P,92.5,Pendek
+2307,50,P,93,Pendek
+2308,23,P,78.8,Pendek
+2309,11,P,68.6,Pendek
+2310,21,P,76,Pendek
+2311,48,P,93.6,Pendek
+2312,21,P,76.6,Pendek
+2313,56,P,96.6,Pendek
+2314,28,P,82.2,Pendek
+2315,37,P,88,Pendek
+2316,22,P,75.1,Sangat Pendek
+2317,45,P,90.2,Pendek
+2318,21,P,78,Pendek
+2319,45,P,91,Pendek
+2320,28,P,80.5,Pendek
+2321,40,P,88.8,Pendek
+2322,50,P,95,Pendek
+2323,48,P,92.5,Pendek
+2324,36,P,87.7,Pendek
+2325,51,P,93.3,Pendek
+2326,26,P,81,Pendek
+2327,49,P,93,Pendek
+2328,35,P,86.1,Pendek
+2329,23,P,77,Pendek
+2330,9,P,66,Pendek
+2331,31,P,82,Pendek
+2332,54,P,95,Pendek
+2333,48,P,90,Pendek
+2334,22,P,78,Pendek
+2335,33,P,84.5,Pendek
+2336,29,P,80,Pendek
+2337,51,P,95,Pendek
+2338,39,P,85,Sangat Pendek
+2339,25,P,79.6,Pendek
+2340,22,P,79,Pendek
+2341,25,P,79.8,Pendek
+2342,22,P,78,Pendek
+2343,22,P,72.8,Sangat Pendek
+2344,42,P,88.2,Pendek
+2345,28,P,81.3,Pendek
+2346,14,P,71.2,Pendek
+2347,12,P,67.1,Pendek
+2348,19,P,75.7,Pendek
+2349,53,P,96.5,Pendek
+2350,51,P,93,Pendek
+2351,34,P,85,Pendek
+2352,55,P,93.5,Pendek
+2353,27,P,80.1,Pendek
+2354,26,P,81.2,Pendek
+2355,26,P,78.8,Pendek
+2356,59,P,98,Pendek
+2357,57,P,98.7,Pendek
+2358,33,P,83.7,Pendek
+2359,21,P,77.5,Pendek
+2360,9,P,65,Pendek
+2361,40,P,87.5,Pendek
+2362,1,P,51,Pendek
+2363,36,P,87.2,Pendek
+2364,35,P,85.2,Pendek
+2365,22,P,77.9,Pendek
+2366,21,P,77.8,Pendek
+2367,9,P,65.5,Pendek
+2368,55,P,97.8,Pendek
+2369,43,P,84,Sangat Pendek
+2370,19,P,75.6,Pendek
+2371,18,L,76,Pendek
+2372,40,P,88.5,Pendek
+2373,28,P,79.9,Pendek
+2374,16,P,72.5,Pendek
+2375,26,P,79,Pendek
+2376,13,P,69.8,Pendek
+2377,36,P,83.6,Sangat Pendek
+2378,57,P,98.7,Pendek
+2379,20,P,74,Sangat Pendek
+2380,42,P,90.2,Pendek
+2381,40,P,86.5,Pendek
+2382,44,P,91.4,Pendek
+2383,44,P,87.8,Sangat Pendek
+2384,20,P,72,Sangat Pendek
+2385,8,P,64,Pendek
+2386,55,P,97,Pendek
+2387,53,P,93,Pendek
+2388,59,L,97.2,Pendek
+2389,57,P,95.5,Pendek
+2390,33,P,80.1,Sangat Pendek
+2391,55,P,95.5,Pendek
+2392,47,P,92,Pendek
+2393,42,L,89.3,Pendek
+2394,40,L,91,Pendek
+2395,31,L,83,Pendek
+2396,32,L,81.6,Sangat Pendek
+2397,37,L,85.7,Sangat Pendek
+2398,24,L,81,Pendek
+2399,23,L,77,Sangat Pendek
+2400,18,L,75,Pendek
+2401,21,L,77.3,Pendek
+2402,20,L,76.9,Pendek
+2403,18,L,75,Pendek
+2404,13,L,72,Pendek
+2405,21,L,77.8,Pendek
+2406,1,L,50,Pendek
+2407,24,L,80.7,Pendek
+2408,20,L,74,Sangat Pendek
+2409,0,L,48,Pendek
+2410,17,L,76,Pendek
+2411,19,P,73.5,Pendek
+2412,30,P,83.2,Pendek
+2413,56,P,97.1,Pendek
+2414,55,P,95.4,Pendek
+2415,13,P,70,Pendek
+2416,30,P,79.6,Sangat Pendek
+2417,19,P,75.9,Pendek
+2418,37,P,83,Sangat Pendek
+2419,34,P,84.5,Pendek
+2420,16,P,71,Pendek
+2421,16,P,69,Sangat Pendek
+2422,23,P,76.9,Pendek
+2423,48,P,93.5,Pendek
+2424,37,P,87.1,Pendek
+2425,13,P,68,Sangat Pendek
+2426,33,P,81,Sangat Pendek
+2427,20,L,74.7,Sangat Pendek
+2428,19,L,74,Sangat Pendek
+2429,39,P,82,Sangat Pendek
+2430,17,P,73.1,Pendek
+2431,22,L,80.1,Pendek
+2432,26,P,73,Sangat Pendek
+2433,55,P,96.2,Pendek
+2434,21,L,79.2,Pendek
+2435,17,L,76,Pendek
+2436,20,P,77,Pendek
+2437,23,P,79,Pendek
+2438,45,L,92,Pendek
+2439,30,P,83,Pendek
+2440,52,P,95.3,Pendek
+2441,47,P,90,Pendek
+2442,17,P,66.1,Sangat Pendek
+2443,19,L,78,Pendek
+2444,54,L,98,Pendek
+2445,18,L,75,Pendek
+2446,41,L,90.5,Pendek
+2447,25,L,81.7,Pendek
+2448,56,L,98,Pendek
+2449,43,L,87.5,Sangat Pendek
+2450,30,L,85,Pendek
+2451,27,L,76,Sangat Pendek
+2452,26,L,80.9,Pendek
+2453,25,L,82,Pendek
+2454,23,L,80,Pendek
+2455,45,L,93,Pendek
+2456,21,P,77,Pendek
+2457,9,L,67,Pendek
+2458,20,L,76.7,Pendek
+2459,43,L,91.7,Pendek
+2460,52,L,93,Pendek
+2461,30,L,82.8,Pendek
+2462,40,L,89.4,Pendek
+2463,39,L,87.5,Pendek
+2464,22,L,79.2,Pendek
+2465,20,L,78.5,Pendek
+2466,20,P,75,Pendek
+2467,7,L,57,Sangat Pendek
+2468,6,L,64,Pendek
+2469,14,L,70.5,Sangat Pendek
+2470,25,L,80,Pendek
+2471,56,L,98,Pendek
+2472,47,L,92,Pendek
+2473,47,L,94.5,Pendek
+2474,58,L,97,Pendek
+2475,58,L,96.9,Pendek
+2476,19,L,76,Pendek
+2477,7,L,65,Pendek
+2478,26,L,82,Pendek
+2479,37,P,86.5,Pendek
+2480,56,L,96,Pendek
+2481,30,L,84.5,Pendek
+2482,17,P,74,Pendek
+2483,28,P,80,Pendek
+2484,27,L,80.8,Pendek
+2485,15,L,73.9,Pendek
+2486,38,L,87.3,Pendek
+2487,36,L,88,Pendek
+2488,34,L,85,Pendek
+2489,33,L,79.4,Sangat Pendek
+2490,29,L,83.6,Pendek
+2491,27,L,82.3,Pendek
+2492,14,L,69.8,Sangat Pendek
+2493,59,L,100.5,Pendek
+2494,45,P,86.5,Sangat Pendek
+2495,31,L,82.6,Sangat Pendek
+2496,19,L,77.6,Pendek
+2497,50,L,95,Pendek
+2498,41,L,87.5,Pendek
+2499,41,L,88.4,Pendek
+2500,36,L,87.9,Pendek
+2501,46,L,85.6,Sangat Pendek
+2502,34,L,85.1,Pendek
+2503,32,L,81.5,Sangat Pendek
+2504,32,L,83.9,Pendek
+2505,17,L,74,Pendek
+2506,22,L,80,Pendek
+2507,35,L,84,Sangat Pendek
+2508,9,P,65.5,Pendek
+2509,40,L,88,Pendek
+2510,14,L,74,Pendek
+2511,50,L,95.1,Pendek
+2512,59,L,96.4,Pendek
+2513,34,L,87,Pendek
+2514,33,L,84,Pendek
+2515,44,L,92.9,Pendek
+2516,33,L,86.1,Pendek
+2517,41,L,88.7,Pendek
+2518,41,L,89.5,Pendek
+2519,52,L,95,Pendek
+2520,50,L,89.5,Sangat Pendek
+2521,38,L,89.7,Pendek
+2522,24,L,77.4,Sangat Pendek
+2523,1,L,50,Pendek
+2524,41,L,89.6,Pendek
+2525,28,L,83.6,Pendek
+2526,16,P,71,Pendek
+2527,1,L,54.3,Sangat Pendek
+2528,25,L,81.5,Pendek
+2529,28,L,82.3,Pendek
+2530,55,L,95.5,Pendek
+2531,6,L,63.3,Pendek
+2532,53,L,94,Pendek
+2533,40,L,88.2,Pendek
+2534,38,P,85.5,Pendek
+2535,36,L,89,Pendek
+2536,35,P,84,Pendek
+2537,10,P,67.1,Pendek
+2538,42,L,88.9,Pendek
+2539,17,L,75.6,Pendek
+2540,16,L,74,Pendek
+2541,27,L,83.1,Pendek
+2542,27,L,78.2,Sangat Pendek
+2543,26,L,81,Pendek
+2544,23,L,75.5,Sangat Pendek
+2545,47,L,94.5,Pendek
+2546,23,L,80,Pendek
+2547,53,L,92.4,Sangat Pendek
+2548,20,L,77.8,Pendek
+2549,19,P,75,Pendek
+2550,42,L,91.9,Pendek
+2551,48,L,95,Pendek
+2552,32,L,85.1,Pendek
+2553,21,L,79,Pendek
+2554,30,L,83,Pendek
+2555,56,L,98.7,Pendek
+2556,37,L,88,Pendek
+2557,34,L,87.5,Pendek
+2558,20,L,77.1,Pendek
+2559,20,L,77.6,Pendek
+2560,53,L,93.2,Sangat Pendek
+2561,36,L,87,Pendek
+2562,23,L,80,Pendek
+2563,34,L,87.7,Pendek
+2564,22,L,77.6,Pendek
+2565,29,L,83.2,Pendek
+2566,39,L,89.2,Pendek
+2567,48,L,93,Pendek
+2568,23,L,80.9,Pendek
+2569,11,L,70.2,Pendek
+2570,46,L,91.3,Pendek
+2571,19,L,77.7,Pendek
+2572,30,P,81.4,Pendek
+2573,53,L,95.1,Pendek
+2574,53,L,93.5,Pendek
+2575,16,L,75,Pendek
+2576,48,P,92.8,Pendek
+2577,10,L,68,Pendek
+2578,22,L,80.7,Pendek
+2579,21,L,78.5,Pendek
+2580,58,L,97.8,Pendek
+2581,41,L,91.5,Pendek
+2582,40,L,87,Sangat Pendek
+2583,27,L,83.4,Pendek
+2584,27,L,81,Pendek
+2585,49,L,93.5,Pendek
+2586,24,L,80.4,Pendek
+2587,46,L,94,Pendek
+2588,45,L,91,Pendek
+2589,53,L,96.5,Pendek
+2590,3,L,56,Sangat Pendek
+2591,13,L,72.1,Pendek
+2592,24,L,82,Pendek
+2593,23,L,78.1,Pendek
+2594,19,L,77,Pendek
+2595,19,L,78.3,Pendek
+2596,19,L,76,Pendek
+2597,30,L,81,Sangat Pendek
+2598,38,L,85,Sangat Pendek
+2599,37,L,86.3,Pendek
+2600,11,L,66,Sangat Pendek
+2601,33,L,86,Pendek
+2602,19,L,73.4,Sangat Pendek
+2603,18,P,75.2,Pendek
+2604,53,L,95,Pendek
+2605,52,L,96.7,Pendek
+2606,37,L,89,Pendek
+2607,0,L,45.8,Sangat Pendek
+2608,59,L,97.5,Pendek
+2609,23,L,75.7,Sangat Pendek
+2610,10,L,69.5,Pendek
+2611,45,L,92,Pendek
+2612,56,L,94,Sangat Pendek
+2613,44,L,89.2,Pendek
+2614,43,P,91.1,Pendek
+2615,29,P,74.3,Sangat Pendek
+2616,16,L,69.3,Sangat Pendek
+2617,16,L,70.9,Sangat Pendek
+2618,41,L,88,Pendek
+2619,44,L,92,Pendek
+2620,46,L,92.5,Pendek
+2621,21,P,77.3,Pendek
+2622,44,L,90.4,Pendek
+2623,30,P,78.1,Sangat Pendek
+2624,15,L,74,Pendek
+2625,15,L,73,Pendek
+2626,37,L,88,Pendek
+2627,48,L,93.5,Pendek
+2628,46,L,92,Pendek
+2629,43,L,91,Pendek
+2630,19,L,77.5,Pendek
+2631,15,L,70.3,Sangat Pendek
+2632,39,L,88.9,Pendek
+2633,34,L,85.5,Pendek
+2634,57,L,99,Pendek
+2635,21,L,76.8,Sangat Pendek
+2636,55,L,98,Pendek
+2637,36,L,85,Pendek
+2638,58,L,96.7,Pendek
+2639,22,L,76,Sangat Pendek
+2640,8,L,66,Pendek
+2641,18,L,76.4,Pendek
+2642,30,L,83,Pendek
+2643,41,L,91,Pendek
+2644,59,L,92.6,Sangat Pendek
+2645,34,L,84.5,Pendek
+2646,34,L,87.5,Pendek
+2647,32,P,83.6,Pendek
+2648,32,L,82.4,Sangat Pendek
+2649,18,P,71.5,Sangat Pendek
+2650,41,P,88,Pendek
+2651,29,P,83,Pendek
+2652,52,P,96,Pendek
+2653,16,P,72.1,Pendek
+2654,37,P,86,Pendek
+2655,36,P,86.8,Pendek
+2656,22,P,76.9,Pendek
+2657,25,P,79.2,Pendek
+2658,35,P,86.6,Pendek
+2659,46,P,87.3,Sangat Pendek
+2660,59,P,93,Sangat Pendek
+2661,44,P,91.8,Pendek
+2662,53,L,97.5,Pendek
+2663,36,P,87.9,Pendek
+2664,48,P,92,Pendek
+2665,48,P,93.4,Pendek
+2666,10,P,64.3,Pendek
+2667,19,P,75,Pendek
+2668,1,P,50.7,Pendek
+2669,1,P,50,Pendek
+2670,47,P,88.9,Sangat Pendek
+2671,24,P,81.1,Pendek
+2672,30,P,80.6,Pendek
+2673,2,P,49,Sangat Pendek
+2674,37,P,86.4,Pendek
+2675,25,P,76.9,Sangat Pendek
+2676,21,P,74.8,Pendek
+2677,36,P,85.2,Pendek
+2678,7,P,62.5,Pendek
+2679,41,P,90.5,Pendek
+2680,51,P,95,Pendek
+2681,27,P,82,Pendek
+2682,2,P,52,Sangat Pendek
+2683,37,P,85.5,Pendek
+2684,36,P,87.3,Pendek
+2685,23,P,77.5,Pendek
+2686,22,P,78,Pendek
+2687,43,P,90.5,Pendek
+2688,31,P,80.7,Sangat Pendek
+2689,28,P,82.6,Pendek
+2690,51,P,96,Pendek
+2691,27,P,79,Sangat Pendek
+2692,55,P,97.3,Pendek
+2693,18,P,74.5,Pendek
+2694,35,P,84.6,Pendek
+2695,53,P,97,Pendek
+2696,26,P,79,Pendek
+2697,24,P,77,Pendek
+2698,35,P,83.5,Pendek
+2699,33,P,84.3,Pendek
+2700,21,P,75.8,Pendek
+2701,42,P,89.4,Pendek
+2702,41,L,89.6,Pendek
+2703,40,P,86,Sangat Pendek
+2704,25,P,80.5,Pendek
+2705,23,P,76.1,Pendek
+2706,46,P,90,Pendek
+2707,17,P,71.4,Sangat Pendek
+2708,39,P,88,Pendek
+2709,50,P,92.5,Pendek
+2710,34,P,84.9,Pendek
+2711,20,P,76.3,Pendek
+2712,43,P,90.7,Pendek
+2713,41,P,86.2,Sangat Pendek
+2714,30,P,82.3,Pendek
+2715,17,P,72,Pendek
+2716,28,P,82.1,Pendek
+2717,28,P,81,Pendek
+2718,51,P,95.6,Pendek
+2719,20,L,79,Pendek
+2720,25,P,80,Pendek
+2721,36,P,86.1,Pendek
+2722,32,P,83.7,Pendek
+2723,45,L,91,Pendek
+2724,31,P,82,Pendek
+2725,16,L,74.6,Pendek
+2726,40,P,88.5,Pendek
+2727,1,P,51.3,Pendek
+2728,33,P,85.4,Pendek
+2729,40,P,85.5,Sangat Pendek
+2730,38,P,87.4,Pendek
+2731,50,P,94.5,Pendek
+2732,21,L,79,Pendek
+2733,36,P,86,Pendek
+2734,23,P,77.5,Pendek
+2735,22,P,78.9,Pendek
+2736,22,P,78,Pendek
+2737,32,P,83,Pendek
+2738,8,P,65,Pendek
+2739,8,P,63,Pendek
+2740,27,P,79.7,Pendek
+2741,26,P,77,Sangat Pendek
+2742,34,P,83,Pendek
+2743,45,P,92,Pendek
+2744,45,P,89.9,Pendek
+2745,56,P,96,Pendek
+2746,43,P,89,Pendek
+2747,37,P,88,Pendek
+2748,52,P,92.5,Pendek
+2749,50,P,94,Pendek
+2750,24,P,79,Pendek
+2751,22,P,76.1,Pendek
+2752,49,P,93.7,Pendek
+2753,58,P,96,Pendek
+2754,38,P,88,Pendek
+2755,36,P,82.1,Sangat Pendek
+2756,23,P,78.2,Pendek
+2757,46,P,91.7,Pendek
+2758,45,P,92.5,Pendek
+2759,29,P,80.8,Pendek
+2760,52,P,94,Pendek
+2761,40,P,89,Pendek
+2762,51,P,95.5,Pendek
+2763,37,P,88.5,Pendek
+2764,52,P,93.7,Pendek
+2765,27,P,82,Pendek
+2766,27,P,81,Pendek
+2767,50,P,93,Pendek
+2768,1,P,50.6,Pendek
+2769,36,P,86.7,Pendek
+2770,24,P,78,Pendek
+2771,35,P,87.2,Pendek
+2772,32,P,83,Pendek
+2773,55,P,95,Pendek
+2774,49,P,90,Sangat Pendek
+2775,23,P,79,Pendek
+2776,34,P,84.7,Pendek
+2777,30,P,80.1,Sangat Pendek
+2778,40,P,85,Sangat Pendek
+2779,26,P,80,Pendek
+2780,23,P,79,Pendek
+2781,0,P,45,Pendek
+2782,26,P,80,Pendek
+2783,23,P,79,Pendek
+2784,23,P,76,Sangat Pendek
+2785,43,P,88.6,Pendek
+2786,29,P,82.1,Pendek
+2787,15,P,71.2,Pendek
+2788,13,P,67.6,Sangat Pendek
+2789,22,P,78.5,Pendek
+2790,20,P,75.8,Pendek
+2791,19,P,73,Sangat Pendek
+2792,54,P,96.9,Pendek
+2793,52,P,93.4,Pendek
+2794,35,P,87,Pendek
+2795,56,P,94,Pendek
+2796,28,P,80.5,Pendek
+2797,27,P,82,Pendek
+2798,27,P,78.8,Pendek
+2799,48,P,90,Pendek
+2800,34,P,85,Pendek
+2801,22,P,77.8,Pendek
+2802,10,P,65,Pendek
+2803,36,P,87,Pendek
+2804,23,P,79,Pendek
+2805,22,P,78,Pendek
+2806,44,P,84.1,Sangat Pendek
+2807,31,P,84,Pendek
+2808,19,L,76.5,Pendek
+2809,29,P,80.2,Pendek
+2810,17,P,73,Pendek
+2811,27,P,79,Pendek
+2812,37,P,85,Pendek
+2813,58,P,98.8,Pendek
+2814,21,P,75,Pendek
+2815,21,P,74.3,Sangat Pendek
+2816,43,P,90.5,Pendek
+2817,41,P,88,Pendek
+2818,45,P,91.5,Pendek
+2819,45,P,90,Pendek
+2820,21,P,70,Sangat Pendek
+2821,9,P,65,Pendek
+2822,56,P,97,Pendek
+2823,54,P,93.4,Pendek
+2824,58,P,96.1,Pendek
+2825,34,P,86,Pendek
+2826,34,P,80.5,Sangat Pendek
+2827,22,P,78,Pendek
+2828,56,P,95.5,Pendek
+2829,48,P,92.1,Pendek
+2830,43,L,89.5,Pendek
+2831,41,L,91.1,Pendek
+2832,38,L,86.7,Pendek
+2833,24,L,77.4,Sangat Pendek
+2834,19,L,76,Pendek
+2835,22,L,77.9,Pendek
+2836,20,L,77,Pendek
+2837,19,L,76,Pendek
+2838,40,P,85.2,Sangat Pendek
+2839,37,L,88,Pendek
+2840,49,L,95,Pendek
+2841,24,L,81.3,Pendek
+2842,21,L,75,Sangat Pendek
+2843,32,L,86,Pendek
+2844,30,L,85,Pendek
+2845,14,L,73.6,Pendek
+2846,18,L,77.3,Pendek
+2847,20,P,74,Pendek
+2848,31,P,83.2,Pendek
+2849,56,P,97.3,Pendek
+2850,56,P,98,Pendek
+2851,14,P,71,Pendek
+2852,30,P,79.6,Sangat Pendek
+2853,20,P,76.5,Pendek
+2854,37,P,82.2,Sangat Pendek
+2855,24,P,78,Pendek
+2856,49,P,94,Pendek
+2857,0,P,44,Pendek
+2858,0,P,44,Pendek
+2859,38,P,87.1,Pendek
+2860,19,P,76.2,Pendek
+2861,14,P,71,Pendek
+2862,34,P,81.7,Sangat Pendek
+2863,21,L,75,Sangat Pendek
+2864,20,L,74.5,Sangat Pendek
+2865,39,P,83,Sangat Pendek
+2866,18,P,74,Pendek
+2867,37,L,84,Sangat Pendek
+2868,28,P,74,Sangat Pendek
+2869,56,P,97.2,Pendek
+2870,22,L,80,Pendek
+2871,18,L,76,Pendek
+2872,46,L,93,Pendek
+2873,53,P,95.5,Pendek
+2874,47,P,90.5,Pendek
+2875,18,P,66.8,Sangat Pendek
+2876,20,L,79,Pendek
+2877,55,L,98.5,Pendek
+2878,42,L,91.5,Pendek
+2879,7,L,63.3,Pendek
+2880,57,L,98,Pendek
+2881,44,L,88,Sangat Pendek
+2882,31,L,85.2,Pendek
+2883,30,L,83.6,Pendek
+2884,28,L,77.8,Sangat Pendek
+2885,27,L,81.6,Pendek
+2886,24,L,80.2,Pendek
+2887,46,L,93.1,Pendek
+2888,10,L,68,Pendek
+2889,21,L,77.1,Pendek
+2890,44,L,91.8,Pendek
+2891,53,L,93.1,Sangat Pendek
+2892,31,L,82.9,Sangat Pendek
+2893,42,L,90,Pendek
+2894,40,L,87.5,Pendek
+2895,37,L,88,Pendek
+2896,23,L,79.5,Pendek
+2897,22,L,79.1,Pendek
+2898,21,P,76,Pendek
+2899,7,L,64.2,Pendek
+2900,26,L,81.5,Pendek
+2901,48,L,92,Pendek
+2902,48,L,94.5,Pendek
+2903,59,L,98.3,Pendek
+2904,59,L,97,Pendek
+2905,20,L,78,Pendek
+2906,15,L,73.1,Pendek
+2907,57,L,97,Pendek
+2908,31,L,84.5,Pendek
+2909,29,P,81,Pendek
+2910,29,L,82,Pendek
+2911,16,L,73.9,Pendek
+2912,39,L,87.8,Pendek
+2913,48,L,93.7,Pendek
+2914,47,L,94,Pendek
+2915,35,L,86,Pendek
+2916,46,L,93.8,Pendek
+2917,34,L,79.8,Sangat Pendek
+2918,31,L,85,Pendek
+2919,18,L,77,Pendek
+2920,54,L,96.1,Pendek
+2921,28,L,83.7,Pendek
+2922,14,L,71.1,Sangat Pendek
+2923,48,L,93,Pendek
+2924,46,P,87,Sangat Pendek
+2925,33,L,82.7,Sangat Pendek
+2926,20,L,77.8,Pendek
+2927,51,L,95.4,Pendek
+2928,41,L,87.8,Sangat Pendek
+2929,42,L,89.4,Pendek
+2930,37,L,88.2,Pendek
+2931,48,L,86,Sangat Pendek
+2932,35,L,85.4,Pendek
+2933,33,P,87.3,Pendek
+2934,34,L,82.4,Sangat Pendek
+2935,28,L,84.2,Pendek
+2936,18,L,75.5,Pendek
+2937,19,L,76.6,Pendek
+2938,41,L,91,Pendek
+2939,36,L,84.2,Sangat Pendek
+2940,0,L,42,Sangat Pendek
+2941,10,P,65.9,Pendek
+2942,19,L,75,Pendek
+2943,28,L,82.7,Pendek
+2944,16,L,74.5,Pendek
+2945,51,L,95.2,Pendek
+2946,59,L,95,Sangat Pendek
+2947,34,L,85,Pendek
+2948,34,L,86.5,Pendek
+2949,42,L,89.6,Pendek
+2950,42,L,90,Pendek
+2951,51,L,91,Sangat Pendek
+2952,38,L,89.6,Pendek
+2953,45,L,93.4,Pendek
+2954,7,L,65.3,Pendek
+2955,31,L,85.5,Pendek
+2956,41,L,90,Pendek
+2957,29,L,83.7,Pendek
+2958,25,L,81.8,Pendek
+2959,21,L,79.5,Pendek
+2960,29,L,83.6,Pendek
+2961,46,L,93.5,Pendek
+2962,7,L,64.2,Pendek
+2963,54,L,94.7,Pendek
+2964,40,L,88.2,Pendek
+2965,38,P,85.5,Pendek
+2966,37,L,89,Pendek
+2967,36,P,84.5,Pendek
+2968,11,P,68,Pendek
+2969,43,L,89.3,Pendek
+2970,18,L,75.9,Pendek
+2971,17,L,74.6,Pendek
+2972,41,L,90.5,Pendek
+2973,27,L,83.1,Pendek
+2974,27,L,78.5,Sangat Pendek
+2975,27,L,80.5,Sangat Pendek
+2976,27,L,82,Pendek
+2977,24,L,76.1,Sangat Pendek
+2978,48,L,95,Pendek
+2979,24,L,81,Pendek
+2980,54,L,92.8,Sangat Pendek
+2981,33,L,85.5,Pendek
+2982,22,L,79,Pendek
+2983,19,P,76.3,Pendek
+2984,43,L,91.8,Pendek
+2985,49,L,95.5,Pendek
+2986,23,L,80.4,Pendek
+2987,33,L,85.5,Pendek
+2988,22,L,79,Pendek
+2989,31,L,83,Pendek
+2990,57,L,98.7,Pendek
+2991,38,L,88.5,Pendek
+2992,21,L,78.5,Pendek
+2993,54,L,94.8,Pendek
+2994,2,L,55.3,Pendek
+2995,37,L,87.3,Pendek
+2996,30,L,84.8,Pendek
+2997,52,L,97.1,Pendek
+2998,38,L,90,Pendek
+2999,12,L,71,Pendek
+3000,48,L,93,Pendek
+3001,20,L,77.8,Pendek
+3002,20,L,78.6,Pendek
+3003,31,P,81.4,Pendek
+3004,54,L,96,Pendek
+3005,54,L,93.8,Pendek
+3006,17,L,75.2,Pendek
+3007,49,P,93.1,Pendek
+3008,11,L,68.5,Pendek
+3009,22,L,79,Pendek
+3010,58,L,100,Pendek
+3011,56,L,98.2,Pendek
+3012,8,L,66,Pendek
+3013,41,L,87.5,Sangat Pendek
+3014,28,L,83.4,Pendek
+3015,28,L,81,Sangat Pendek
+3016,50,L,93.5,Pendek
+3017,25,L,80.6,Pendek
+3018,47,L,94,Pendek
+3019,46,L,91.2,Pendek
+3020,54,L,98,Pendek
+3021,20,L,78.8,Pendek
+3022,21,P,77,Pendek
+3023,4,L,59.3,Pendek
+3024,4,L,59,Pendek
+3025,14,L,73.3,Pendek
+3026,24,L,81,Pendek
+3027,11,L,70.3,Pendek
+3028,20,L,77,Pendek
+3029,20,L,78.4,Pendek
+3030,20,L,76,Pendek
+3031,39,L,85.9,Sangat Pendek
+3032,38,L,87.2,Pendek
+3033,12,L,68,Sangat Pendek
+3034,34,L,85.6,Pendek
+3035,21,L,78,Pendek
+3036,20,L,73.6,Sangat Pendek
+3037,19,P,75.5,Pendek
+3038,54,L,95,Pendek
+3039,38,L,89.9,Pendek
+3040,1,L,50.5,Sangat Pendek
+3041,48,L,93,Pendek
+3042,24,L,75.6,Sangat Pendek
+3043,11,L,69.5,Pendek
+3044,46,L,93.5,Pendek
+3045,57,L,94.1,Sangat Pendek
+3046,45,L,89.6,Sangat Pendek
+3047,44,P,91.4,Pendek
+3048,30,P,74.3,Sangat Pendek
+3049,17,L,70,Sangat Pendek
+3050,17,L,72,Sangat Pendek
+3051,27,L,82.8,Pendek
+3052,42,L,89.4,Pendek
+3053,45,L,90.7,Pendek
+3054,31,P,79.6,Sangat Pendek
+3055,16,L,74,Pendek
+3056,16,L,74.9,Pendek
+3057,38,L,88.5,Pendek
+3058,2,L,54,Pendek
+3059,49,L,95.6,Pendek
+3060,47,L,93,Pendek
+3061,44,L,91,Pendek
+3062,20,L,78,Pendek
+3063,16,L,70.5,Sangat Pendek
+3064,40,L,89.8,Pendek
+3065,35,L,86,Pendek
+3066,58,L,99.4,Pendek
+3067,22,L,76.9,Sangat Pendek
+3068,37,L,85,Sangat Pendek
+3069,59,L,96.8,Pendek
+3070,23,L,78,Sangat Pendek
+3071,45,L,90,Pendek
+3072,9,L,67.8,Pendek
+3073,9,L,67,Pendek
+3074,19,L,77,Pendek
+3075,31,L,83.7,Pendek
+3076,42,L,91,Pendek
+3077,35,L,84.6,Pendek
+3078,35,L,87.7,Pendek
+3079,33,P,84.1,Pendek
+3080,33,L,83,Sangat Pendek
+3081,19,P,71.5,Sangat Pendek
+3082,42,P,88.6,Pendek
+3083,30,P,83,Pendek
+3084,53,P,96,Pendek
+3085,17,P,73,Pendek
+3086,38,P,86.7,Pendek
+3087,37,P,86.8,Pendek
+3088,23,P,78,Pendek
+3089,42,P,90.4,Pendek
+3090,26,P,80.4,Pendek
+3091,37,P,87,Pendek
+3092,36,P,87.5,Pendek
+3093,47,P,89,Sangat Pendek
+3094,59,P,94,Sangat Pendek
+3095,45,P,91.8,Pendek
+3096,39,P,88.4,Pendek
+3097,38,P,88,Pendek
+3098,49,P,92,Pendek
+3099,49,P,93.4,Pendek
+3100,10,P,64.5,Sangat Pendek
+3101,2,P,51,Sangat Pendek
+3102,49,P,89.8,Sangat Pendek
+3103,25,P,81.5,Pendek
+3104,31,P,81.4,Pendek
+3105,50,P,95,Pendek
+3106,38,P,87,Pendek
+3107,26,P,78,Pendek
+3108,22,P,74,Sangat Pendek
+3109,36,P,88,Pendek
+3110,57,P,98.5,Pendek
+3111,8,P,63.7,Pendek
+3112,42,P,91.1,Pendek
+3113,52,P,96,Pendek
+3114,3,P,54.1,Sangat Pendek
+3115,14,P,70.8,Pendek
+3116,37,P,87.7,Pendek
+3117,24,P,79,Pendek
+3118,23,P,78.3,Pendek
+3119,46,P,93,Pendek
+3120,44,P,90.6,Pendek
+3121,32,P,82,Pendek
+3122,53,P,96,Pendek
+3123,29,P,79,Sangat Pendek
+3124,52,P,96,Pendek
+3125,39,P,89,Pendek
+3126,56,P,97.3,Pendek
+3127,20,P,75,Pendek
+3128,36,P,85.5,Pendek
+3129,30,P,84,Pendek
+3130,28,P,79.1,Pendek
+3131,25,P,77.9,Pendek
+3132,34,P,84.8,Pendek
+3133,22,P,76.7,Pendek
+3134,43,P,90.5,Pendek
+3135,42,L,90,Pendek
+3136,42,P,86.7,Sangat Pendek
+3137,23,P,79,Pendek
+3138,47,P,90.2,Pendek
+3139,42,L,87,Sangat Pendek
+3140,19,P,72.6,Sangat Pendek
+3141,41,P,89,Pendek
+3142,28,P,82.2,Pendek
+3143,51,P,94.9,Pendek
+3144,38,P,88.7,Pendek
+3145,36,P,86,Pendek
+3146,22,P,76.5,Pendek
+3147,44,P,92,Pendek
+3148,42,P,88.5,Pendek
+3149,31,P,83,Pendek
+3150,18,P,73,Pendek
+3151,29,P,82.5,Pendek
+3152,30,P,81.2,Pendek
+3153,52,P,96,Pendek
+3154,21,L,79.3,Pendek
+3155,26,P,80,Pendek
+3156,37,P,86.5,Pendek
+3157,33,P,83.7,Pendek
+3158,46,L,91.5,Pendek
+3159,33,P,82.1,Pendek
+3160,19,P,75.1,Pendek
+3161,17,L,75,Pendek
+3162,41,P,89.3,Pendek
+3163,34,P,85.8,Pendek
+3164,41,P,86,Sangat Pendek
+3165,16,P,73.6,Pendek
+3166,38,P,87.7,Pendek
+3167,14,P,70.5,Pendek
+3168,29,P,79,Sangat Pendek
+3169,51,P,95.6,Pendek
+3170,22,L,79.7,Pendek
+3171,37,P,88,Pendek
+3172,25,P,77.6,Pendek
+3173,23,P,79,Pendek
+3174,23,P,78.1,Pendek
+3175,34,P,85.2,Pendek
+3176,8,P,65.1,Pendek
+3177,29,P,82.7,Pendek
+3178,28,P,81,Pendek
+3179,27,P,77.1,Sangat Pendek
+3180,35,P,84.5,Pendek
+3181,46,P,92.2,Pendek
+3182,57,P,96.8,Pendek
+3183,44,P,89.2,Pendek
+3184,53,P,93.5,Pendek
+3185,51,P,95,Pendek
+3186,25,P,79.8,Pendek
+3187,23,P,79,Pendek
+3188,31,L,84.5,Pendek
+3189,37,P,87.4,Pendek
+3190,23,P,76.8,Pendek
+3191,58,P,96,Pendek
+3192,22,L,80,Pendek
+3193,30,P,82.3,Pendek
+3194,39,P,88.5,Pendek
+3195,37,P,83,Sangat Pendek
+3196,24,P,79,Pendek
+3197,47,P,92,Pendek
+3198,46,P,92.5,Pendek
+3199,30,P,80.8,Pendek
+3200,53,P,94.1,Pendek
+3201,41,P,89,Pendek
+3202,52,P,96.1,Pendek
+3203,50,P,93.2,Pendek
+3204,39,P,88.6,Pendek
+3205,53,P,93.7,Pendek
+3206,28,P,81,Pendek
+3207,51,P,95.3,Pendek
+3208,2,P,54,Pendek
+3209,37,P,87,Pendek
+3210,26,P,80,Pendek
+3211,33,P,83.3,Pendek
+3212,56,P,95,Pendek
+3213,18,P,72.2,Sangat Pendek
+3214,50,P,91,Pendek
+3215,24,P,79,Pendek
+3216,35,P,85.4,Pendek
+3217,31,P,80.2,Sangat Pendek
+3218,53,P,96.5,Pendek
+3219,41,P,86,Sangat Pendek
+3220,27,P,80.2,Pendek
+3221,37,P,88.3,Pendek
+3222,24,P,80,Pendek
+3223,27,P,77,Sangat Pendek
+3224,27,P,80.2,Pendek
+3225,24,P,80,Pendek
+3226,24,P,76.7,Sangat Pendek
+3227,44,P,90,Pendek
+3228,20,P,77,Pendek
+3229,30,P,83.5,Pendek
+3230,16,P,71.5,Pendek
+3231,14,P,67.7,Sangat Pendek
+3232,34,P,86,Pendek
+3233,21,P,75.8,Pendek
+3234,20,P,73,Sangat Pendek
+3235,55,P,97,Pendek
+3236,53,P,94,Pendek
+3237,57,P,94,Sangat Pendek
+3238,29,P,81.5,Pendek
+3239,28,P,82.5,Pendek
+3240,49,P,93,Pendek
+3241,35,P,85.3,Pendek
+3242,23,P,78,Pendek
+3243,11,P,65,Sangat Pendek
+3244,42,P,89,Pendek
+3245,38,P,87.7,Pendek
+3246,37,P,88,Pendek
+3247,24,P,79.4,Pendek
+3248,23,P,78,Pendek
+3249,45,P,85.5,Sangat Pendek
+3250,21,P,77.2,Pendek
+3251,20,L,76.5,Pendek
+3252,42,P,89.7,Pendek
+3253,30,P,80.6,Pendek
+3254,18,P,73,Pendek
+3255,28,P,80,Pendek
+3256,38,P,85,Sangat Pendek
+3257,59,P,98.8,Pendek
+3258,22,P,75,Pendek
+3259,22,P,74.3,Sangat Pendek
+3260,44,P,92.2,Pendek
+3261,42,P,89.1,Pendek
+3262,13,P,70.5,Pendek
+3263,46,P,91.1,Pendek
+3264,22,P,70.7,Sangat Pendek
+3265,57,P,98,Pendek
+3266,55,P,94.3,Pendek
+3267,19,P,74.5,Pendek
+3268,59,P,96.3,Pendek
+3269,35,P,81.8,Sangat Pendek
+3270,57,P,96,Pendek
+3271,49,P,92.3,Pendek
+3272,44,L,90.1,Pendek
+3273,36,P,87.8,Pendek
+3274,42,L,91.4,Pendek
+3275,34,L,81.7,Sangat Pendek
+3276,39,L,86.7,Pendek
+3277,15,L,74.3,Pendek
+3278,0,L,45,Pendek
+3279,26,L,82.6,Pendek
+3280,25,L,80.7,Pendek
+3281,20,L,77,Pendek
+3282,23,L,78.8,Pendek
+3283,22,L,79.3,Pendek
+3284,20,L,76,Pendek
+3285,55,L,98.1,Pendek
+3286,22,L,77.9,Pendek
+3287,41,P,85.2,Sangat Pendek
+3288,50,L,95,Pendek
+3289,25,L,82,Pendek
+3290,22,L,77.7,Sangat Pendek
+3291,31,L,85,Pendek
+3292,19,L,78.1,Pendek
+3293,21,P,74,Sangat Pendek
+3294,32,P,83.6,Pendek
+3295,58,P,98,Pendek
+3296,15,P,71.2,Pendek
+3297,40,P,86.5,Pendek
+3298,32,P,80.9,Sangat Pendek
+3299,21,P,77.4,Pendek
+3300,54,P,97,Pendek
+3301,39,P,83.4,Sangat Pendek
+3302,36,P,85.5,Pendek
+3303,17,P,71,Sangat Pendek
+3304,17,P,69.3,Sangat Pendek
+3305,25,P,79.9,Pendek
+3306,10,P,67,Pendek
+3307,50,P,95.1,Pendek
+3308,0,P,47,Pendek
+3309,39,P,88.4,Pendek
+3310,15,P,72,Pendek
+3311,22,L,75.5,Sangat Pendek
+3312,41,P,83.4,Sangat Pendek
+3313,19,P,75,Pendek
+3314,24,L,81.4,Pendek
+3315,38,L,89,Pendek
+3316,38,L,85.6,Sangat Pendek
+3317,29,P,74.2,Sangat Pendek
+3318,28,L,84,Pendek
+3319,57,P,97.4,Pendek
+3320,19,L,76,Pendek
+3321,47,L,94,Pendek
+3322,32,P,85,Pendek
+3323,54,P,95.6,Pendek
+3324,48,P,91,Pendek
+3325,19,P,66.8,Sangat Pendek
+3326,22,L,80,Pendek
+3327,56,L,99,Pendek
+3328,43,L,92.4,Pendek
+3329,8,L,65,Pendek
+3330,50,L,96,Pendek
+3331,58,L,98.2,Pendek
+3332,45,L,88,Sangat Pendek
+3333,32,L,85.2,Pendek
+3334,31,L,85.5,Pendek
+3335,29,L,79,Sangat Pendek
+3336,28,L,83,Pendek
+3337,23,P,78.5,Pendek
+3338,11,L,70,Pendek
+3339,11,L,69,Pendek
+3340,22,L,77.1,Sangat Pendek
+3341,45,L,91.8,Pendek
+3342,54,L,93.3,Sangat Pendek
+3343,32,L,83,Pendek
+3344,43,L,91.5,Pendek
+3345,41,L,87.9,Pendek
+3346,38,L,88.5,Pendek
+3347,24,L,79.5,Pendek
+3348,23,L,79.2,Pendek
+3349,22,P,77,Pendek
+3350,8,L,66,Pendek
+3351,16,L,75,Pendek
+3352,27,L,83,Pendek
+3353,0,P,45,Pendek
+3354,35,L,87.7,Pendek
+3355,3,P,55,Pendek
+3356,49,L,92.3,Pendek
+3357,59,L,99.6,Pendek
+3358,21,L,78.5,Pendek
+3359,56,L,98.6,Pendek
+3360,29,L,81.5,Pendek
+3361,29,L,83.5,Pendek
+3362,16,L,74.1,Pendek
+3363,58,L,97.1,Pendek
+3364,32,L,84.5,Pendek
+3365,19,P,74,Pendek
+3366,30,P,82.5,Pendek
+3367,30,L,83.3,Pendek
+3368,17,L,74,Pendek
+3369,40,L,88.6,Pendek
+3370,50,L,95,Pendek
+3371,48,L,94.8,Pendek
+3372,36,L,86,Pendek
+3373,35,L,80,Sangat Pendek
+3374,32,L,85.5,Pendek
+3375,20,L,77,Pendek
+3376,29,L,83.9,Pendek
+3377,16,L,73.3,Pendek
+3378,49,L,93.1,Pendek
+3379,47,P,88,Sangat Pendek
+3380,34,L,84.3,Pendek
+3381,21,L,77.4,Pendek
+3382,52,L,96.1,Pendek
+3383,12,L,71,Pendek
+3384,34,L,87,Pendek
+3385,33,L,85,Pendek
+3386,43,L,88.5,Pendek
+3387,43,L,90.1,Pendek
+3388,49,L,86,Sangat Pendek
+3389,36,L,86,Pendek
+3390,35,L,84,Sangat Pendek
+3391,19,L,76.2,Pendek
+3392,20,L,78,Pendek
+3393,7,L,64,Pendek
+3394,14,P,71,Pendek
+3395,37,L,86.3,Pendek
+3396,0,L,46,Pendek
+3397,11,P,66,Pendek
+3398,20,L,76.6,Pendek
+3399,43,L,89,Pendek
+3400,29,L,83.1,Pendek
+3401,17,L,75.1,Pendek
+3402,52,L,96.4,Pendek
+3403,36,L,89,Pendek
+3404,36,L,85,Pendek
+3405,35,L,87.1,Pendek
+3406,43,L,91,Pendek
+3407,52,L,91.5,Sangat Pendek
+3408,39,L,90.3,Pendek
+3409,46,L,93.8,Pendek
+3410,42,L,90.7,Pendek
+3411,30,L,85.1,Pendek
+3412,26,L,82,Pendek
+3413,22,L,79.6,Pendek
+3414,31,L,83.7,Pendek
+3415,58,L,97,Pendek
+3416,55,L,95.7,Pendek
+3417,55,L,98.4,Pendek
+3418,42,L,90,Pendek
+3419,40,P,85.5,Sangat Pendek
+3420,38,L,90,Pendek
+3421,38,P,85,Pendek
+3422,12,P,68,Pendek
+3423,24,L,81,Pendek
+3424,44,L,89.3,Pendek
+3425,19,L,77.5,Pendek
+3426,42,L,90.7,Pendek
+3427,29,L,83.6,Pendek
+3428,29,L,80,Sangat Pendek
+3429,28,L,80.8,Sangat Pendek
+3430,28,L,83,Pendek
+3431,38,P,86.9,Pendek
+3432,25,L,82.2,Pendek
+3433,34,L,86.5,Pendek
+3434,23,L,80,Pendek
+3435,33,L,87.4,Pendek
+3436,21,P,77,Pendek
+3437,50,L,95.9,Pendek
+3438,35,L,86,Pendek
+3439,23,L,79.2,Pendek
+3440,32,L,83.5,Pendek
+3441,20,L,79,Pendek
+3442,58,L,98.7,Pendek
+3443,39,L,88.9,Pendek
+3444,22,L,78,Pendek
+3445,56,L,95.1,Pendek
+3446,3,L,57.3,Pendek
+3447,38,L,89,Pendek
+3448,24,L,81.5,Pendek
+3449,10,L,68.5,Pendek
+3450,57,L,99.5,Pendek
+3451,12,L,71.3,Pendek
+3452,16,L,74.7,Pendek
+3453,50,L,94.7,Pendek
+3454,25,L,82.1,Pendek
+3455,13,L,71.5,Pendek
+3456,48,L,94.9,Pendek
+3457,21,L,79.2,Pendek
+3458,21,L,78.8,Pendek
+3459,32,P,81.5,Sangat Pendek
+3460,55,L,96.5,Pendek
+3461,55,L,94,Sangat Pendek
+3462,18,L,76,Pendek
+3463,28,L,84.1,Pendek
+3464,24,L,82.1,Pendek
+3465,23,L,80,Pendek
+3466,57,L,98.2,Pendek
+3467,9,L,67,Pendek
+3468,43,L,92.3,Pendek
+3469,29,L,82.2,Pendek
+3470,16,L,75.4,Pendek
+3471,51,L,95.5,Pendek
+3472,26,L,81,Pendek
+3473,48,L,95,Pendek
+3474,21,L,79,Pendek
+3475,22,P,77.5,Pendek
+3476,30,L,85.3,Pendek
+3477,5,L,60,Sangat Pendek
+3478,5,L,59,Sangat Pendek
+3479,15,L,73.5,Pendek
+3480,25,L,81,Pendek
+3481,12,L,70.3,Pendek
+3482,21,L,78,Pendek
+3483,21,L,80,Pendek
+3484,21,L,79,Pendek
+3485,32,L,83,Sangat Pendek
+3486,40,L,86.4,Sangat Pendek
+3487,39,L,87.8,Pendek
+3488,13,L,70,Sangat Pendek
+3489,35,L,86.4,Pendek
+3490,21,L,73.6,Sangat Pendek
+3491,20,P,76,Pendek
+3492,55,L,95,Pendek
+3493,2,L,51,Sangat Pendek
+3494,49,L,93.6,Pendek
+3495,25,L,76.5,Sangat Pendek
+3496,12,L,70.6,Pendek
+3497,48,L,94.9,Pendek
+3498,47,L,94.5,Pendek
+3499,58,L,94.7,Sangat Pendek
+3500,46,L,90.4,Pendek
+3501,45,P,91.6,Pendek
+3502,31,P,74.3,Sangat Pendek
+3503,18,L,70,Sangat Pendek
+3504,18,L,73.2,Sangat Pendek
+3505,6,L,64,Pendek
+3506,29,L,85.5,Pendek
+3507,28,L,83.3,Pendek
+3508,43,L,90,Pendek
+3509,46,L,94,Pendek
+3510,13,L,71.8,Pendek
+3511,46,L,91,Pendek
+3512,32,P,80.2,Sangat Pendek
+3513,17,L,75,Pendek
+3514,17,L,75,Pendek
+3515,39,L,88.7,Pendek
+3516,3,L,58,Pendek
+3517,50,L,95.6,Pendek
+3518,48,L,93,Pendek
+3519,12,L,69.4,Pendek
+3520,46,L,93,Pendek
+3521,45,L,91.2,Pendek
+3522,21,L,78.5,Pendek
+3523,17,L,70.5,Sangat Pendek
+3524,41,L,90.6,Pendek
+3525,36,L,86.6,Pendek
+3526,59,L,99.8,Pendek
+3527,23,L,77.5,Sangat Pendek
+3528,38,L,85,Sangat Pendek
+3529,24,L,80,Pendek
+3530,11,L,70.3,Pendek
+3531,46,L,92,Pendek
+3532,10,L,68.5,Pendek
+3533,20,L,77.3,Pendek
+3534,32,L,84,Pendek
+3535,43,L,91.2,Pendek
+3536,36,L,85,Sangat Pendek
+3537,36,L,88.4,Pendek
+3538,34,P,85.1,Pendek
+3539,34,L,83.6,Sangat Pendek
+3540,20,P,72.5,Sangat Pendek
+3541,43,P,89.3,Pendek
+3542,31,P,83,Pendek
+3543,54,P,96,Pendek
+3544,18,P,73,Pendek
+3545,39,P,88.5,Pendek
+3546,38,P,86.8,Pendek
+3547,24,P,79,Pendek
+3548,43,P,90.4,Pendek
+3549,18,P,75,Pendek
+3550,38,P,89,Pendek
+3551,48,P,89.2,Sangat Pendek
+3552,46,P,92,Pendek
+3553,53,P,96.2,Pendek
+3554,40,P,89,Pendek
+3555,39,P,88,Pendek
+3556,39,P,88.6,Pendek
+3557,50,P,93.1,Pendek
+3558,50,P,95.1,Pendek
+3559,12,P,65.4,Sangat Pendek
+3560,21,P,75.2,Pendek
+3561,3,P,55.1,Pendek
+3562,50,P,91,Pendek
+3563,32,P,82.1,Pendek
+3564,30,P,84,Pendek
+3565,51,P,95,Pendek
+3566,39,P,87.4,Pendek
+3567,27,P,79,Pendek
+3568,23,P,74.5,Sangat Pendek
+3569,38,P,86.3,Pendek
+3570,9,P,64.8,Pendek
+3571,29,P,82.1,Pendek
+3572,15,P,70.9,Pendek
+3573,38,P,87.9,Pendek
+3574,26,P,79,Pendek
+3575,24,P,78.6,Pendek
+3576,47,P,93.5,Pendek
+3577,35,P,86.3,Pendek
+3578,46,P,91.7,Pendek
+3579,33,P,83,Pendek
+3580,54,P,95,Pendek
+3581,30,P,80,Sangat Pendek
+3582,53,P,90,Sangat Pendek
+3583,57,P,97.5,Pendek
+3584,21,P,76.1,Pendek
+3585,26,P,78,Pendek
+3586,37,P,84.5,Pendek
+3587,35,P,84.8,Pendek
+3588,23,P,77.5,Pendek
+3589,46,P,93,Pendek
+3590,44,P,90.5,Pendek
+3591,43,L,91,Pendek
+3592,43,P,86.7,Sangat Pendek
+3593,25,P,79.1,Pendek
+3594,48,P,91,Pendek
+3595,43,L,87,Sangat Pendek
+3596,20,P,75.5,Pendek
+3597,41,P,90.3,Pendek
+3598,52,P,95.3,Pendek
+3599,40,P,89.3,Pendek
+3600,37,P,86.2,Pendek
+3601,1,P,49,Pendek
+3602,0,P,40,Sangat Pendek
+3603,23,P,79,Pendek
+3604,45,P,92.1,Pendek
+3605,43,P,88.9,Pendek
+3606,32,P,84,Pendek
+3607,20,P,75,Pendek
+3608,30,P,82.7,Pendek
+3609,31,P,84,Pendek
+3610,53,P,96.5,Pendek
+3611,22,L,79.3,Pendek
+3612,27,P,81.5,Pendek
+3613,34,P,85,Pendek
+3614,47,L,91.6,Pendek
+3615,34,P,82.4,Sangat Pendek
+3616,20,P,75.6,Pendek
+3617,42,P,90.6,Pendek
+3618,35,P,86.7,Pendek
+3619,9,P,66,Pendek
+3620,42,P,87.3,Sangat Pendek
+3621,17,P,73.8,Pendek
+3622,40,P,90,Pendek
+3623,39,P,88.1,Pendek
+3624,15,P,72,Pendek
+3625,52,P,96.5,Pendek
+3626,23,L,79.7,Pendek
+3627,38,P,88.1,Pendek
+3628,24,P,79.5,Pendek
+3629,24,P,80,Pendek
+3630,35,P,86.4,Pendek
+3631,10,P,66,Pendek
+3632,29,P,81,Pendek
+3633,28,P,77.5,Sangat Pendek
+3634,36,P,85.5,Pendek
+3635,47,P,92.5,Pendek
+3636,58,P,97,Pendek
+3637,45,P,90,Pendek
+3638,39,P,88.5,Pendek
+3639,54,P,94,Pendek
+3640,52,P,95.3,Pendek
+3641,39,P,88.5,Pendek
+3642,26,P,80,Pendek
+3643,24,P,79,Pendek
+3644,32,L,85.6,Pendek
+3645,38,P,88,Pendek
+3646,24,P,79.3,Pendek
+3647,59,P,97.1,Pendek
+3648,31,P,82.5,Pendek
+3649,41,P,89,Pendek
+3650,38,P,84,Sangat Pendek
+3651,25,P,80,Pendek
+3652,48,P,92.2,Pendek
+3653,47,P,92.7,Pendek
+3654,31,P,83,Pendek
+3655,19,P,73,Sangat Pendek
+3656,54,P,96.3,Pendek
+3657,53,P,96.7,Pendek
+3658,51,P,93.5,Pendek
+3659,39,P,89.5,Pendek
+3660,54,P,96,Pendek
+3661,29,P,83.1,Pendek
+3662,29,P,82,Pendek
+3663,52,P,95.5,Pendek
+3664,38,P,88,Pendek
+3665,26,P,80.3,Pendek
+3666,12,P,69,Pendek
+3667,34,P,83.7,Pendek
+3668,19,P,74,Pendek
+3669,51,P,89.5,Sangat Pendek
+3670,25,P,80,Pendek
+3671,36,P,85.8,Pendek
+3672,32,P,82,Pendek
+3673,42,P,87,Sangat Pendek
+3674,28,P,81.5,Pendek
+3675,25,P,80,Pendek
+3676,28,P,77,Sangat Pendek
+3677,28,P,81.5,Pendek
+3678,25,P,76.7,Sangat Pendek
+3679,46,P,93,Pendek
+3680,45,P,90.4,Pendek
+3681,31,P,83.7,Pendek
+3682,17,P,72,Pendek
+3683,15,P,68.1,Sangat Pendek
+3684,22,P,77.6,Pendek
+3685,21,P,75,Sangat Pendek
+3686,54,P,94.3,Pendek
+3687,16,P,73.3,Pendek
+3688,58,P,95.5,Pendek
+3689,30,P,81.7,Pendek
+3690,6,P,61,Pendek
+3691,36,P,86.4,Pendek
+3692,24,P,79,Pendek
+3693,12,P,65.5,Sangat Pendek
+3694,43,P,89,Pendek
+3695,39,P,87.8,Pendek
+3696,38,P,88.5,Pendek
+3697,24,P,78,Pendek
+3698,24,P,80,Pendek
+3699,46,P,86,Sangat Pendek
+3700,22,P,78.5,Pendek
+3701,21,L,77.5,Pendek
+3702,43,P,90.2,Pendek
+3703,31,P,81.2,Pendek
+3704,19,P,74,Pendek
+3705,29,P,81,Pendek
+3706,39,P,87.2,Pendek
+3707,23,P,76,Sangat Pendek
+3708,23,P,74.3,Sangat Pendek
+3709,43,P,90.4,Pendek
+3710,16,P,73.1,Pendek
+3711,14,P,70.5,Pendek
+3712,47,P,93.5,Pendek
+3713,47,P,92,Pendek
+3714,23,P,72.5,Sangat Pendek
+3715,11,P,67,Pendek
+3716,58,P,98,Pendek
+3717,56,P,94.7,Pendek
+3718,20,P,76.5,Pendek
+3719,50,P,93,Pendek
+3720,45,L,90.9,Pendek
+3721,37,P,88,Pendek
+3722,43,L,91.9,Pendek
+3723,14,L,72.5,Pendek
+3724,35,L,81.9,Sangat Pendek
+3725,40,L,87.4,Pendek
+3726,16,L,74.3,Pendek
+3727,27,L,83,Pendek
+3728,26,L,80.8,Pendek
+3729,21,L,77.2,Pendek
+3730,19,L,73.9,Sangat Pendek
+3731,24,L,79.6,Pendek
+3732,23,L,79.4,Pendek
+3733,21,L,76,Sangat Pendek
+3734,23,L,78,Sangat Pendek
+3735,51,L,95.4,Pendek
+3736,26,L,82.8,Pendek
+3737,23,L,77,Sangat Pendek
+3738,19,L,78,Pendek
+3739,28,L,84.1,Pendek
+3740,33,L,87,Pendek
+3741,20,L,78.5,Pendek
+3742,22,P,76,Pendek
+3743,33,P,84.9,Pendek
+3744,59,P,99,Pendek
+3745,3,P,56,Pendek
+3746,16,P,71.4,Pendek
+3747,41,P,87.5,Pendek
+3748,33,P,81.5,Sangat Pendek
+3749,0,P,49,Pendek
+3750,55,P,97.3,Pendek
+3751,40,P,84.2,Sangat Pendek
+3752,37,P,85.6,Pendek
+3753,19,P,71.1,Sangat Pendek
+3754,19,P,70.1,Sangat Pendek
+3755,26,P,80.8,Pendek
+3756,11,P,67,Pendek
+3757,51,P,95.3,Pendek
+3758,1,P,51.3,Pendek
+3759,40,P,88.4,Pendek
+3760,16,P,72.2,Pendek
+3761,36,P,82.7,Sangat Pendek
+3762,23,L,76,Sangat Pendek
+3763,42,P,83.5,Sangat Pendek
+3764,20,P,76,Pendek
+3765,55,L,98.5,Pendek
+3766,39,L,89.9,Pendek
+3767,39,L,85.7,Sangat Pendek
+3768,1,P,50,Pendek
+3769,30,P,74.8,Sangat Pendek
+3770,29,L,84.5,Pendek
+3771,58,P,99,Pendek
+3772,20,L,76,Sangat Pendek
+3773,33,P,85.5,Pendek
+3774,55,P,95.7,Pendek
+3775,49,P,92,Pendek
+3776,20,P,68.8,Sangat Pendek
+3777,57,L,99,Pendek
+3778,21,L,77.4,Pendek
+3779,9,L,67,Pendek
+3780,28,L,84.1,Pendek
+3781,59,L,99.5,Pendek
+3782,33,L,85.5,Pendek
+3783,30,L,79,Sangat Pendek
+3784,26,L,82.4,Pendek
+3785,48,L,94.8,Pendek
+3786,24,P,78.6,Pendek
+3787,46,L,92,Pendek
+3788,55,L,94,Sangat Pendek
+3789,44,L,92.3,Pendek
+3790,42,L,92,Pendek
+3791,42,L,88.5,Pendek
+3792,30,L,85,Pendek
+3793,39,L,88.5,Pendek
+3794,25,L,79.5,Pendek
+3795,24,L,81,Pendek
+3796,23,P,77,Pendek
+3797,9,L,66.1,Pendek
+3798,17,L,75,Pendek
+3799,4,P,57,Pendek
+3800,22,L,78.6,Pendek
+3801,30,L,83.5,Pendek
+3802,17,L,75,Pendek
+3803,59,L,97.5,Pendek
+3804,33,L,84.6,Pendek
+3805,20,P,75,Pendek
+3806,31,P,84.5,Pendek
+3807,31,L,84.5,Pendek
+3808,39,L,90.2,Pendek
+3809,50,L,95,Pendek
+3810,36,L,80.5,Sangat Pendek
+3811,33,L,86.8,Pendek
+3812,21,L,78,Pendek
+3813,30,L,84.1,Pendek
+3814,17,L,76,Pendek
+3815,50,L,94.6,Pendek
+3816,48,P,88.5,Sangat Pendek
+3817,35,L,85,Pendek
+3818,22,L,77.5,Pendek
+3819,52,L,96.8,Pendek
+3820,13,L,72,Pendek
+3821,36,L,88.5,Pendek
+3822,35,L,88.1,Pendek
+3823,34,L,85,Pendek
+3824,44,L,88.7,Sangat Pendek
+3825,44,L,91.6,Pendek
+3826,50,L,86.1,Sangat Pendek
+3827,37,L,86.7,Pendek
+3828,36,L,84,Sangat Pendek
+3829,21,L,78,Pendek
+3830,8,L,65,Pendek
+3831,38,L,87,Pendek
+3832,21,L,77.3,Pendek
+3833,30,L,83.3,Pendek
+3834,53,L,97.3,Pendek
+3835,37,L,89,Pendek
+3836,36,L,86.2,Pendek
+3837,35,L,88,Pendek
+3838,23,L,81.6,Pendek
+3839,44,L,91,Pendek
+3840,53,L,91.5,Sangat Pendek
+3841,40,L,90.3,Pendek
+3842,32,L,87,Pendek
+3843,44,L,91.3,Pendek
+3844,32,L,86.2,Pendek
+3845,6,L,63,Pendek
+3846,40,L,90.5,Pendek
+3847,31,L,84.3,Pendek
+3848,9,L,67.5,Pendek
+3849,56,L,96.1,Pendek
+3850,43,L,90.5,Pendek
+3851,41,P,85.7,Sangat Pendek
+3852,39,P,86,Pendek
+3853,13,P,68,Sangat Pendek
+3854,45,L,89.3,Sangat Pendek
+3855,29,L,83,Pendek
+3856,39,P,86.9,Pendek
+3857,26,L,77.5,Sangat Pendek
+3858,26,L,82.2,Pendek
+3859,56,L,93,Sangat Pendek
+3860,35,L,86.5,Pendek
+3861,24,L,80.4,Pendek
+3862,34,L,87.7,Pendek
+3863,46,L,93.8,Pendek
+3864,51,L,96,Pendek
+3865,25,L,81.9,Pendek
+3866,35,L,86.6,Pendek
+3867,24,L,80.3,Pendek
+3868,10,L,68.5,Pendek
+3869,33,L,83.6,Sangat Pendek
+3870,21,L,79,Pendek
+3871,59,L,100,Pendek
+3872,40,L,89.5,Pendek
+3873,37,L,90,Pendek
+3874,23,L,80,Pendek
+3875,23,L,79,Pendek
+3876,29,L,85,Pendek
+3877,4,L,59,Sangat Pendek
+3878,39,L,90,Pendek
+3879,11,L,69.6,Pendek
+3880,58,L,100,Pendek
+3881,13,L,72.2,Pendek
+3882,56,L,96,Pendek
+3883,54,L,98,Pendek
+3884,17,L,75.2,Pendek
+3885,5,L,63,Pendek
+3886,51,L,94.8,Pendek
+3887,26,L,83,Pendek
+3888,14,L,73,Pendek
+3889,49,L,94.9,Pendek
+3890,22,L,79.5,Pendek
+3891,33,P,82.1,Sangat Pendek
+3892,20,L,77.7,Pendek
+3893,56,L,97.6,Pendek
+3894,44,P,92,Pendek
+3895,56,L,94.6,Pendek
+3896,51,P,94.2,Pendek
+3897,13,L,71.5,Pendek
+3898,24,L,80.5,Pendek
+3899,58,L,98.2,Pendek
+3900,10,L,69,Pendek
+3901,44,L,93,Pendek
+3902,43,L,88,Sangat Pendek
+3903,30,L,82.7,Pendek
+3904,17,L,76,Pendek
+3905,52,L,95.5,Pendek
+3906,27,L,82,Pendek
+3907,48,L,92.5,Pendek
+3908,56,L,99,Pendek
+3909,22,L,79.1,Pendek
+3910,23,P,77.8,Pendek
+3911,31,L,86,Pendek
+3912,6,L,63,Pendek
+3913,6,L,64.2,Pendek
+3914,16,L,73.5,Pendek
+3915,26,L,81,Pendek
+3916,13,L,71,Pendek
+3917,22,L,78.5,Pendek
+3918,22,L,79,Pendek
+3919,33,L,84,Pendek
+3920,41,L,87.7,Sangat Pendek
+3921,40,L,88,Pendek
+3922,14,L,70.5,Sangat Pendek
+3923,36,L,87,Pendek
+3924,23,L,81.2,Pendek
+3925,22,L,74.5,Sangat Pendek
+3926,21,P,76,Pendek
+3927,56,L,95,Pendek
+3928,3,L,57.5,Pendek
+3929,3,L,57.5,Pendek
+3930,26,L,76.5,Sangat Pendek
+3931,13,L,72,Pendek
+3932,49,L,95.6,Pendek
+3933,48,L,94.6,Pendek
+3934,59,L,94.7,Sangat Pendek
+3935,47,L,91.9,Pendek
+3936,46,P,91.7,Pendek
+3937,32,P,76,Sangat Pendek
+3938,19,L,71.2,Sangat Pendek
+3939,19,L,75.5,Pendek
+3940,7,L,64.9,Pendek
+3941,29,L,84,Pendek
+3942,44,L,90.5,Pendek
+3943,14,L,73,Pendek
+3944,47,L,91.4,Pendek
+3945,58,L,99,Pendek
+3946,33,P,81,Sangat Pendek
+3947,18,L,76,Pendek
+3948,52,L,97,Pendek
+3949,40,L,89,Pendek
+3950,4,L,60.4,Pendek
+3951,51,L,96.6,Pendek
+3952,49,L,93,Pendek
+3953,13,L,69.4,Sangat Pendek
+3954,46,L,92,Pendek
+3955,34,L,85.5,Pendek
+3956,22,L,78.5,Pendek
+3957,18,L,71,Sangat Pendek
+3958,42,L,91.2,Pendek
+3959,24,L,78,Sangat Pendek
+3960,25,L,81,Pendek
+3961,47,L,93,Pendek
+3962,11,L,70,Pendek
+3963,11,L,70,Pendek
+3964,33,L,84,Pendek
+3965,44,L,91.6,Pendek
+3966,37,L,85.2,Sangat Pendek
+3967,37,L,89,Pendek
+3968,35,P,85.3,Pendek
+3969,35,L,84.5,Sangat Pendek
+3970,21,P,74,Sangat Pendek
+3971,44,P,89.5,Pendek
+3972,32,P,83.9,Pendek
+3973,55,P,97,Pendek
+3974,17,P,74,Pendek
+3975,40,P,88.5,Pendek
+3976,39,P,87,Pendek
+3977,25,P,79.7,Pendek
+3978,19,P,75.6,Pendek
+3979,28,P,82.3,Pendek
+3980,16,P,73,Pendek
+3981,39,P,88.4,Pendek
+3982,49,P,91,Pendek
+3983,54,P,97,Pendek
+3984,41,P,89,Pendek
+3985,40,P,89.5,Pendek
+3986,51,P,93.5,Pendek
+3987,51,P,95.5,Pendek
+3988,13,P,66.3,Sangat Pendek
+3989,22,P,76,Pendek
+3990,4,P,58.3,Pendek
+3991,4,P,58,Pendek
+3992,51,P,91.4,Pendek
+3993,27,P,83,Pendek
+3994,34,P,86,Pendek
+3995,33,P,82.1,Pendek
+3996,52,P,95,Pendek
+3997,40,P,87.9,Pendek
+3998,28,P,80.6,Pendek
+3999,24,P,75,Sangat Pendek
+4000,59,P,99.5,Pendek
+4001,10,P,65.2,Pendek
+4002,10,P,66.3,Pendek
+4003,54,P,97,Pendek
+4004,30,P,83,Pendek
+4005,40,P,87,Pendek
+4006,16,P,72,Pendek
+4007,39,P,88.6,Pendek
+4008,25,P,80,Pendek
+4009,48,P,94,Pendek
+4010,36,P,86.5,Pendek
+4011,46,P,91.7,Pendek
+4012,34,P,83.5,Pendek
+4013,31,P,80.1,Sangat Pendek
+4014,54,P,96,Pendek
+4015,22,P,76,Pendek
+4016,38,P,87.7,Pendek
+4017,31,P,74.8,Sangat Pendek
+4018,38,P,85.5,Pendek
+4019,24,P,79.2,Pendek
+4020,36,P,85,Pendek
+4021,24,P,78.3,Pendek
+4022,45,P,91,Pendek
+4023,44,L,91.5,Pendek
+4024,44,P,87.3,Sangat Pendek
+4025,44,P,91.5,Pendek
+4026,25,P,80.5,Pendek
+4027,49,P,92,Pendek
+4028,44,L,87.1,Sangat Pendek
+4029,21,P,76.2,Pendek
+4030,43,P,90.3,Pendek
+4031,42,P,90.4,Pendek
+4032,53,P,96.2,Pendek
+4033,37,P,87.8,Pendek
+4034,45,P,89.3,Pendek
+4035,33,P,85,Pendek
+4036,21,P,75.5,Pendek
+4037,31,P,84.5,Pendek
+4038,32,P,84,Pendek
+4039,55,P,96.5,Pendek
+4040,19,P,75.6,Pendek
+4041,35,P,86,Pendek
+4042,48,L,92,Pendek
+4043,35,P,83,Sangat Pendek
+4044,43,P,91.1,Pendek
+4045,10,P,66,Pendek
+4046,43,P,88,Pendek
+4047,41,P,90,Pendek
+4048,40,P,89.5,Pendek
+4049,24,L,80.7,Pendek
+4050,26,P,80,Pendek
+4051,25,P,80.1,Pendek
+4052,36,P,86.6,Pendek
+4053,11,P,68,Pendek
+4054,11,P,67,Pendek
+4055,31,P,84.5,Pendek
+4056,30,P,82.5,Pendek
+4057,29,P,78.2,Sangat Pendek
+4058,37,P,85.5,Pendek
+4059,48,P,93.3,Pendek
+4060,59,P,98,Pendek
+4061,46,P,90.7,Pendek
+4062,55,P,94.5,Pendek
+4063,53,P,96.3,Pendek
+4064,40,P,89,Pendek
+4065,27,P,80.2,Pendek
+4066,15,P,68.5,Sangat Pendek
+4067,25,P,80,Pendek
+4068,33,L,86.7,Pendek
+4069,39,P,88,Pendek
+4070,25,P,79.3,Pendek
+4071,41,P,89.5,Pendek
+4072,39,P,84.6,Sangat Pendek
+4073,26,P,81,Pendek
+4074,49,P,92.7,Pendek
+4075,25,P,80,Pendek
+4076,48,P,94,Pendek
+4077,58,P,99,Pendek
+4078,32,P,83,Pendek
+4079,20,P,73,Sangat Pendek
+4080,55,P,96.4,Pendek
+4081,43,P,89.9,Pendek
+4082,52,P,94,Pendek
+4083,40,P,89.7,Pendek
+4084,16,P,73.5,Pendek
+4085,36,P,87.5,Pendek
+4086,55,P,96,Pendek
+4087,30,P,83.5,Pendek
+4088,30,P,82,Pendek
+4089,53,P,96.3,Pendek
+4090,16,P,71.6,Pendek
+4091,39,P,88.9,Pendek
+4092,27,P,80.3,Pendek
+4093,13,P,69,Pendek
+4094,24,P,80,Pendek
+4095,35,P,84.3,Pendek
+4096,20,P,75,Pendek
+4097,53,L,87.1,Sangat Pendek
+4098,52,P,90.1,Sangat Pendek
+4099,37,P,86,Pendek
+4100,33,P,83.2,Pendek
+4101,43,P,87,Sangat Pendek
+4102,29,P,82.3,Pendek
+4103,29,P,79,Sangat Pendek
+4104,29,P,81.7,Pendek
+4105,26,P,77.5,Sangat Pendek
+4106,46,P,90.8,Pendek
+4107,32,P,84.3,Pendek
+4108,18,P,73,Pendek
+4109,16,P,71.5,Pendek
+4110,49,P,94,Pendek
+4111,22,P,76,Pendek
+4112,55,P,95,Pendek
+4113,59,P,95.5,Pendek
+4114,31,P,82.2,Pendek
+4115,30,P,84,Pendek
+4116,16,P,73.5,Pendek
+4117,37,P,87.5,Pendek
+4118,13,P,66,Sangat Pendek
+4119,44,P,89.3,Pendek
+4120,26,P,80.5,Pendek
+4121,25,P,78.5,Pendek
+4122,25,P,80,Pendek
+4123,47,P,86.4,Sangat Pendek
+4124,23,P,78.8,Pendek
+4125,44,P,91,Pendek
+4126,32,P,81.6,Pendek
+4127,20,P,74.3,Pendek
+4128,30,P,82,Pendek
+4129,40,P,87.2,Pendek
+4130,24,P,77.7,Pendek
+4131,24,P,75,Sangat Pendek
+4132,44,P,90.7,Pendek
+4133,15,P,72.1,Pendek
+4134,48,P,93.5,Pendek
+4135,48,P,92,Pendek
+4136,24,P,73.8,Sangat Pendek
+4137,12,P,68,Pendek
+4138,59,P,99,Pendek
+4139,57,P,94.7,Pendek
+4140,21,P,75.6,Pendek
+4141,37,P,83.2,Sangat Pendek
+4142,51,P,93.8,Pendek
+4143,46,L,91.5,Pendek
+4144,38,P,88,Pendek
+4145,44,L,92.2,Pendek
+4146,41,L,89.1,Pendek
+4147,17,L,75.5,Pendek
+4148,27,L,81,Pendek
+4149,22,L,77.3,Pendek
+4150,0,L,45,Pendek
+4151,25,L,79.8,Pendek
+4152,24,L,79.5,Pendek
+4153,22,L,76.1,Sangat Pendek
+4154,52,L,96,Pendek
+4155,27,L,82.8,Pendek
+4156,24,L,77.1,Sangat Pendek
+4157,20,L,78.5,Pendek
+4158,34,L,87.2,Pendek
+4159,0,L,48,Pendek
+4160,21,L,78.5,Pendek
+4161,23,P,76.1,Pendek
+4162,34,P,86.5,Pendek
+4163,59,P,98.4,Pendek
+4164,0,P,45,Pendek
+4165,4,P,58,Pendek
+4166,42,P,87.5,Pendek
+4167,34,P,82.4,Sangat Pendek
+4168,41,P,85.3,Sangat Pendek
+4169,38,P,87.1,Pendek
+4170,27,P,81.6,Pendek
+4171,12,P,67.5,Pendek
+4172,41,P,88.6,Pendek
+4173,17,P,74,Pendek
+4174,37,P,83.1,Sangat Pendek
+4175,16,P,73,Pendek
+4176,23,L,75,Sangat Pendek
+4177,43,P,84,Sangat Pendek
+4178,21,P,77.1,Pendek
+4179,40,L,90.7,Pendek
+4180,31,P,74.9,Sangat Pendek
+4181,21,L,78,Pendek
+4182,41,L,90.2,Pendek
+4183,56,P,95.7,Pendek
+4184,50,P,94,Pendek
+4185,21,P,68.8,Sangat Pendek
+4186,58,L,99.2,Pendek
+4187,8,L,66,Pendek
+4188,29,L,84.4,Pendek
+4189,37,L,89.1,Pendek
+4190,47,L,88.3,Sangat Pendek
+4191,34,L,85.5,Pendek
+4192,31,L,80.3,Sangat Pendek
+4193,29,L,84.4,Pendek
+4194,27,L,82.5,Pendek
+4195,49,L,95,Pendek
+4196,25,P,78.9,Pendek
+4197,13,L,70,Pendek
+4198,24,L,78.5,Pendek
+4199,47,L,92,Pendek
+4200,45,L,92.5,Pendek
+4201,55,P,97.6,Pendek
+4202,43,L,88.5,Sangat Pendek
+4203,31,L,85.6,Pendek
+4204,26,L,80,Sangat Pendek
+4205,25,L,81.9,Pendek
+4206,24,P,78,Pendek
+4207,10,L,67,Pendek
+4208,18,L,75.2,Pendek
+4209,2,L,54.5,Pendek
+4210,5,P,58,Pendek
+4211,51,L,92.5,Pendek
+4212,23,L,78.9,Pendek
+4213,31,L,83.9,Pendek
+4214,34,L,85,Pendek
+4215,21,P,75,Pendek
+4216,32,L,86,Pendek
+4217,40,L,90.5,Pendek
+4218,51,L,95.6,Pendek
+4219,37,L,80.7,Sangat Pendek
+4220,34,L,87.2,Pendek
+4221,22,L,78,Pendek
+4222,56,L,96.9,Pendek
+4223,17,L,76.6,Pendek
+4224,38,L,89,Pendek
+4225,49,P,89,Sangat Pendek
+4226,36,L,85.3,Pendek
+4227,23,L,79.2,Pendek
+4228,14,L,73,Pendek
+4229,37,L,88.5,Pendek
+4230,45,L,89.6,Pendek
+4231,45,L,92.1,Pendek
+4232,51,L,87,Sangat Pendek
+4233,38,L,87.2,Pendek
+4234,36,L,86,Pendek
+4235,21,L,78.2,Pendek
+4236,22,L,80,Pendek
+4237,57,L,95,Pendek
+4238,9,L,66,Pendek
+4239,39,L,87,Pendek
+4240,3,L,53,Sangat Pendek
+4241,22,L,77.9,Pendek
+4242,30,P,80,Sangat Pendek
+4243,31,L,83.3,Pendek
+4244,38,L,89,Pendek
+4245,38,L,86.2,Sangat Pendek
+4246,25,L,81.8,Pendek
+4247,45,L,90.3,Pendek
+4248,45,L,93,Pendek
+4249,53,L,92,Sangat Pendek
+4250,41,L,91.6,Pendek
+4251,28,L,80.6,Sangat Pendek
+4252,33,L,88,Pendek
+4253,44,L,91.5,Pendek
+4254,41,L,90.6,Pendek
+4255,24,L,82,Pendek
+4256,32,L,84.6,Pendek
+4257,50,L,95.2,Pendek
+4258,57,L,96.1,Pendek
+4259,43,L,91,Pendek
+4260,41,P,90,Pendek
+4261,40,L,91,Pendek
+4262,39,P,86.2,Pendek
+4263,14,P,68.5,Sangat Pendek
+4264,35,L,88.3,Pendek
+4265,46,L,90.6,Pendek
+4266,20,L,75,Sangat Pendek
+4267,7,L,65.2,Pendek
+4268,30,L,80.9,Sangat Pendek
+4269,5,L,62,Pendek
+4270,27,L,78.5,Sangat Pendek
+4271,27,L,82.3,Pendek
+4272,57,L,93,Sangat Pendek
+4273,36,L,87.5,Pendek
+4274,25,L,80.5,Pendek
+4275,36,L,88.4,Pendek
+4276,52,L,96.3,Pendek
+4277,26,L,81.9,Pendek
+4278,36,L,87,Pendek
+4279,25,L,80.5,Pendek
+4280,11,L,70.2,Pendek
+4281,22,L,80.4,Pendek
+4282,41,L,90,Pendek
+4283,24,L,80.3,Pendek
+4284,24,L,79.2,Pendek
+4285,57,L,96,Pendek
+4286,30,L,85,Pendek
+4287,5,L,62,Pendek
+4288,40,L,90.2,Pendek
+4289,12,L,69.8,Pendek
+4290,22,L,80,Pendek
+4291,14,L,73.3,Pendek
+4292,18,L,77,Pendek
+4293,52,L,95,Pendek
+4294,27,L,83.7,Pendek
+4295,15,L,74,Pendek
+4296,50,L,94.9,Pendek
+4297,23,L,81,Pendek
+4298,34,P,83,Pendek
+4299,21,L,78,Pendek
+4300,57,L,97.6,Pendek
+4301,45,P,92.5,Pendek
+4302,57,L,95.8,Pendek
+4303,20,L,78,Pendek
+4304,52,P,95,Pendek
+4305,14,L,71.3,Pendek
+4306,26,L,82.5,Pendek
+4307,25,L,80.5,Pendek
+4308,59,L,99.6,Pendek
+4309,11,L,70,Pendek
+4310,44,L,88.5,Sangat Pendek
+4311,31,L,85,Pendek
+4312,18,L,76.5,Pendek
+4313,53,L,96,Pendek
+4314,28,L,83,Pendek
+4315,49,L,92.7,Pendek
+4316,24,P,78.4,Pendek
+4317,7,L,63.1,Sangat Pendek
+4318,7,L,64.5,Pendek
+4319,17,L,73.7,Sangat Pendek
+4320,40,L,89,Pendek
+4321,27,L,81.6,Pendek
+4322,14,L,71,Sangat Pendek
+4323,23,L,79,Pendek
+4324,23,L,79,Pendek
+4325,34,L,84,Sangat Pendek
+4326,42,L,87.7,Sangat Pendek
+4327,41,L,89.5,Pendek
+4328,15,L,71,Sangat Pendek
+4329,37,L,87,Pendek
+4330,23,L,74.5,Sangat Pendek
+4331,58,L,92.6,Sangat Pendek
+4332,57,L,95,Pendek
+4333,4,L,60,Pendek
+4334,4,L,59.7,Pendek
+4335,51,L,94,Pendek
+4336,27,L,77.7,Sangat Pendek
+4337,14,L,72.3,Pendek
+4338,49,L,95.5,Pendek
+4339,48,L,91.9,Pendek
+4340,47,P,91.9,Pendek
+4341,33,P,78,Sangat Pendek
+4342,20,L,71.5,Sangat Pendek
+4343,20,L,76.5,Pendek
+4344,8,L,65.2,Pendek
+4345,30,L,84.5,Pendek
+4346,45,L,91.1,Pendek
+4347,48,L,91.5,Pendek
+4348,59,L,99.1,Pendek
+4349,34,P,81.8,Sangat Pendek
+4350,19,L,76,Pendek
+4351,41,L,90,Pendek
+4352,52,L,96.9,Pendek
+4353,50,L,94,Pendek
+4354,14,L,69.8,Sangat Pendek
+4355,47,L,92.2,Pendek
+4356,23,L,78.5,Pendek
+4357,19,L,73,Sangat Pendek
+4358,43,L,92,Pendek
+4359,38,L,88,Pendek
+4360,25,L,79,Sangat Pendek
+4361,40,L,88,Pendek
+4362,13,L,72.3,Pendek
+4363,12,L,71,Pendek
+4364,0,L,46,Pendek
+4365,34,L,85,Pendek
+4366,45,L,92,Pendek
+4367,38,L,85.4,Sangat Pendek
+4368,38,L,89.5,Pendek
+4369,36,P,85.5,Pendek
+4370,36,L,85.6,Pendek
+4371,22,P,74.5,Sangat Pendek
+4372,45,P,90,Pendek
+4373,33,P,83.9,Pendek
+4374,56,P,97,Pendek
+4375,41,P,88.5,Pendek
+4376,40,P,88.1,Pendek
+4377,26,P,79.9,Pendek
+4378,45,P,92,Pendek
+4379,33,P,85.4,Pendek
+4380,20,P,76,Pendek
+4381,29,P,82.3,Pendek
+4382,40,P,89,Pendek
+4383,50,P,92,Pendek
+4384,22,P,78.1,Pendek
+4385,55,P,97.5,Pendek
+4386,42,P,90.9,Pendek
+4387,41,P,89.7,Pendek
+4388,41,P,90.5,Pendek
+4389,52,P,93.5,Pendek
+4390,52,P,96.1,Pendek
+4391,13,P,66.6,Sangat Pendek
+4392,23,P,77,Pendek
+4393,5,P,60.2,Pendek
+4394,52,P,91.4,Sangat Pendek
+4395,15,P,71.3,Pendek
+4396,34,P,82.8,Pendek
+4397,53,P,96,Pendek
+4398,41,P,89,Pendek
+4399,29,P,80.6,Pendek
+4400,25,P,75.2,Sangat Pendek
+4401,59,P,99.5,Pendek
+4402,31,P,84,Pendek
+4403,41,P,87.6,Pendek
+4404,17,P,72.2,Pendek
+4405,49,P,94,Pendek
+4406,37,P,86.8,Pendek
+4407,48,P,91.8,Pendek
+4408,35,P,84.1,Pendek
+4409,33,P,85.4,Pendek
+4410,56,P,96,Pendek
+4411,32,P,82.2,Pendek
+4412,24,P,78.9,Pendek
+4413,23,P,78,Pendek
+4414,39,P,87.7,Pendek
+4415,58,P,96.3,Pendek
+4416,32,P,76.5,Sangat Pendek
+4417,39,P,87,Pendek
+4418,26,P,80,Pendek
+4419,37,P,85,Pendek
+4420,46,P,91.5,Pendek
+4421,45,L,92.2,Pendek
+4422,45,P,87.3,Sangat Pendek
+4423,45,P,91.5,Pendek
+4424,29,P,83,Pendek
+4425,26,P,80.6,Pendek
+4426,50,P,92.1,Pendek
+4427,45,L,88,Sangat Pendek
+4428,22,P,77,Pendek
+4429,44,P,90.3,Pendek
+4430,54,P,96.6,Pendek
+4431,38,P,87.8,Pendek
+4432,47,P,93.4,Pendek
+4433,46,P,89.7,Pendek
+4434,34,P,86,Pendek
+4435,21,P,75.7,Pendek
+4436,33,P,85,Pendek
+4437,32,P,82.8,Pendek
+4438,33,P,84.6,Pendek
+4439,55,P,96.5,Pendek
+4440,52,P,91.9,Sangat Pendek
+4441,36,P,86.5,Pendek
+4442,49,L,92.5,Pendek
+4443,36,P,83.2,Sangat Pendek
+4444,21,P,76.9,Pendek
+4445,44,P,91.2,Pendek
+4446,38,P,87.3,Pendek
+4447,11,P,68,Pendek
+4448,44,P,88.5,Pendek
+4449,20,P,76.3,Pendek
+4450,42,P,90.8,Pendek
+4451,41,P,90.3,Pendek
+4452,32,P,77,Sangat Pendek
+4453,25,L,82,Pendek
+4454,26,P,81.6,Pendek
+4455,26,P,81,Pendek
+4456,37,P,86.6,Pendek
+4457,21,P,78.2,Pendek
+4458,32,P,84.5,Pendek
+4459,31,P,82.5,Pendek
+4460,30,P,79.8,Sangat Pendek
+4461,52,P,94,Pendek
+4462,38,P,85.8,Pendek
+4463,49,P,93.3,Pendek
+4464,47,P,91.2,Pendek
+4465,56,P,94.7,Pendek
+4466,54,P,96.3,Pendek
+4467,41,P,89.2,Pendek
+4468,17,P,74,Pendek
+4469,28,P,81.8,Pendek
+4470,16,P,69.8,Sangat Pendek
+4471,40,P,89,Pendek
+4472,26,P,80.4,Pendek
+4473,33,P,82.6,Pendek
+4474,42,P,91.2,Pendek
+4475,40,P,84.5,Sangat Pendek
+4476,27,P,81,Pendek
+4477,50,P,93,Pendek
+4478,49,P,94.5,Pendek
+4479,0,P,48.7,Pendek
+4480,59,P,99,Pendek
+4481,33,P,84,Pendek
+4482,21,P,74.5,Sangat Pendek
+4483,56,P,96.5,Pendek
+4484,44,P,90,Pendek
+4485,53,P,94.7,Pendek
+4486,37,P,87.5,Pendek
+4487,25,P,77.2,Sangat Pendek
+4488,56,P,96,Pendek
+4489,31,P,83.7,Pendek
+4490,31,P,83,Pendek
+4491,54,P,96.5,Pendek
+4492,30,P,84.6,Pendek
+4493,17,P,72,Pendek
+4494,40,P,89.9,Pendek
+4495,28,P,80.3,Pendek
+4496,28,P,82.5,Pendek
+4497,14,P,71.5,Pendek
+4498,36,P,85,Pendek
+4499,21,P,76.1,Pendek
+4500,54,L,98,Pendek
+4501,53,P,91,Sangat Pendek
+4502,38,P,87.5,Pendek
+4503,14,P,71.2,Pendek
+4504,34,P,83.6,Pendek
+4505,44,P,87.2,Sangat Pendek
+4506,30,P,82.8,Pendek
+4507,30,P,80.6,Pendek
+4508,30,P,83.3,Pendek
+4509,27,P,79.6,Pendek
+4510,47,P,91.8,Pendek
+4511,33,P,84.3,Pendek
+4512,17,P,71.9,Pendek
+4513,50,P,95,Pendek
+4514,26,P,81.2,Pendek
+4515,23,P,76.5,Pendek
+4516,56,P,96,Pendek
+4517,32,P,84.4,Pendek
+4518,31,P,84.5,Pendek
+4519,38,P,87.9,Pendek
+4520,14,P,67,Sangat Pendek
+4521,2,L,55.3,Pendek
+4522,41,P,90.3,Pendek
+4523,5,P,58.9,Pendek
+4524,27,P,80.6,Pendek
+4525,26,P,80,Pendek
+4526,48,P,88.5,Sangat Pendek
+4527,21,P,74.5,Sangat Pendek
+4528,31,P,83.5,Pendek
+4529,41,P,87.3,Pendek
+4530,25,P,76,Sangat Pendek
+4531,45,P,91.2,Pendek
+4532,16,P,72.9,Pendek
+4533,49,P,93.8,Pendek
+4534,49,P,92,Pendek
+4535,25,P,75,Sangat Pendek
+4536,58,P,95.2,Pendek
+4537,22,P,76.1,Pendek
+4538,38,P,83.4,Sangat Pendek
+4539,52,P,94,Pendek
+4540,47,L,92.3,Pendek
+4541,39,P,88.3,Pendek
+4542,45,L,92.6,Pendek
+4543,37,L,82,Sangat Pendek
+4544,42,L,89.2,Pendek
+4545,18,L,75,Pendek
+4546,28,L,81.4,Pendek
+4547,21,L,76.3,Sangat Pendek
+4548,26,L,79.9,Pendek
+4549,25,L,79.6,Pendek
+4550,23,L,76.2,Sangat Pendek
+4551,25,L,78,Sangat Pendek
+4552,53,L,96.1,Pendek
+4553,28,L,82.3,Pendek
+4554,25,L,77.2,Sangat Pendek
+4555,21,L,78.5,Pendek
+4556,35,L,87.5,Pendek
+4557,34,L,87.5,Pendek
+4558,18,L,77,Pendek
+4559,1,L,52,Pendek
+4560,27,L,84,Pendek
+4561,0,L,45,Pendek
+4562,22,L,79.8,Pendek
+4563,24,P,76.2,Sangat Pendek
+4564,35,P,86.5,Pendek
+4565,59,P,99.2,Pendek
+4566,42,P,88.6,Pendek
+4567,35,P,82.9,Sangat Pendek
+4568,13,P,69.7,Pendek
+4569,12,P,68.9,Pendek
+4570,41,P,85.3,Sangat Pendek
+4571,38,P,88.1,Pendek
+4572,20,P,75,Pendek
+4573,20,P,74,Sangat Pendek
+4574,28,P,81.9,Pendek
+4575,13,P,68,Sangat Pendek
+4576,42,P,89,Pendek
+4577,18,P,75,Pendek
+4578,13,P,70,Pendek
+4579,38,P,84,Sangat Pendek
+4580,25,L,76,Sangat Pendek
+4581,28,L,83.5,Pendek
+4582,24,L,75.2,Sangat Pendek
+4583,44,P,85,Sangat Pendek
+4584,22,P,78,Pendek
+4585,41,L,90.8,Pendek
+4586,16,L,75.5,Pendek
+4587,41,L,87.9,Pendek
+4588,32,P,72.8,Sangat Pendek
+4589,22,L,79.5,Pendek
+4590,42,P,91,Pendek
+4591,57,P,96.3,Pendek
+4592,51,P,94.3,Pendek
+4593,22,P,71.3,Sangat Pendek
+4594,28,L,83.8,Pendek
+4595,59,L,99.5,Pendek
+4596,30,L,84.6,Pendek
+4597,48,L,88.7,Sangat Pendek
+4598,35,L,85.5,Pendek
+4599,34,L,86.7,Pendek
+4600,32,L,80.7,Sangat Pendek
+4601,31,L,86,Pendek
+4602,30,L,85.1,Pendek
+4603,28,L,82.8,Pendek
+4604,26,P,80,Pendek
+4605,14,L,72,Pendek
+4606,25,L,79.5,Pendek
+4607,48,L,94.1,Pendek
+4608,57,L,95,Sangat Pendek
+4609,46,L,92.5,Pendek
+4610,44,L,89.6,Pendek
+4611,32,L,85.6,Pendek
+4612,27,L,79.5,Sangat Pendek
+4613,26,L,82.1,Pendek
+4614,25,P,79,Pendek
+4615,11,L,67.5,Sangat Pendek
+4616,19,L,75.2,Pendek
+4617,26,L,82.5,Pendek
+4618,6,P,61,Pendek
+4619,24,L,79.5,Pendek
+4620,56,L,95.5,Pendek
+4621,32,L,84.6,Pendek
+4622,35,L,85,Pendek
+4623,22,P,76,Pendek
+4624,33,L,87,Pendek
+4625,19,L,78.2,Pendek
+4626,52,L,95.6,Pendek
+4627,38,L,80.7,Sangat Pendek
+4628,35,L,88,Pendek
+4629,23,L,79.5,Pendek
+4630,57,L,97.8,Pendek
+4631,52,L,95.5,Pendek
+4632,50,P,89.5,Sangat Pendek
+4633,37,L,85.5,Pendek
+4634,24,L,81,Pendek
+4635,2,L,53,Sangat Pendek
+4636,55,L,98,Pendek
+4637,53,L,97.5,Pendek
+4638,15,L,74,Pendek
+4639,38,L,88.7,Pendek
+4640,0,L,44,Sangat Pendek
+4641,46,L,90.5,Sangat Pendek
+4642,45,L,92.5,Pendek
+4643,41,L,91,Pendek
+4644,52,L,87,Sangat Pendek
+4645,39,L,87.9,Pendek
+4646,38,L,86,Sangat Pendek
+4647,22,L,79.2,Pendek
+4648,23,L,80,Pendek
+4649,40,L,88,Pendek
+4650,4,L,59,Pendek
+4651,23,L,77.4,Sangat Pendek
+4652,31,P,80.6,Sangat Pendek
+4653,45,L,92,Pendek
+4654,55,L,98,Pendek
+4655,39,L,89.1,Pendek
+4656,38,L,87.1,Pendek
+4657,38,L,88,Pendek
+4658,25,L,81.9,Pendek
+4659,47,L,92,Pendek
+4660,46,L,93.1,Pendek
+4661,55,L,92.7,Sangat Pendek
+4662,15,L,73.9,Pendek
+4663,49,L,94,Pendek
+4664,34,L,88.5,Pendek
+4665,45,L,93.5,Pendek
+4666,42,L,91.5,Pendek
+4667,25,L,82,Pendek
+4668,33,L,85.2,Pendek
+4669,11,L,68.2,Sangat Pendek
+4670,58,L,96.5,Pendek
+4671,45,L,91,Pendek
+4672,41,P,87,Pendek
+4673,15,P,68.5,Sangat Pendek
+4674,47,L,90.6,Pendek
+4675,34,L,85.5,Pendek
+4676,21,L,77,Pendek
+4677,33,L,86.8,Pendek
+4678,31,L,85,Pendek
+4679,6,L,63,Pendek
+4680,28,L,78.5,Sangat Pendek
+4681,28,L,83.3,Pendek
+4682,37,L,88.3,Pendek
+4683,26,L,81,Pendek
+4684,23,P,78.6,Pendek
+4685,53,L,97.5,Pendek
+4686,38,L,87,Pendek
+4687,26,L,80.5,Pendek
+4688,12,L,70.5,Pendek
+4689,42,L,90.6,Pendek
+4690,25,L,79.2,Pendek
+4691,58,L,96.4,Pendek
+4692,8,P,63,Pendek
+4693,31,L,85,Pendek
+4694,6,L,62.8,Pendek
+4695,41,L,90.3,Pendek
+4696,56,L,99,Pendek
+4697,19,L,77.2,Pendek
+4698,28,L,83.7,Pendek
+4699,16,L,74,Pendek
+4700,51,L,95,Pendek
+4701,35,P,85,Pendek
+4702,58,L,97.9,Pendek
+4703,46,P,93,Pendek
+4704,58,L,97.5,Pendek
+4705,53,P,95.5,Pendek
+4706,15,L,72.6,Pendek
+4707,26,L,81.2,Pendek
+4708,12,L,71.3,Pendek
+4709,45,L,89,Sangat Pendek
+4710,32,L,84,Pendek
+4711,54,L,97,Pendek
+4712,29,L,85,Pendek
+4713,29,L,83,Pendek
+4714,51,L,96.5,Pendek
+4715,50,L,93.3,Pendek
+4716,11,L,70,Pendek
+4717,25,P,78.5,Pendek
+4718,8,L,65,Pendek
+4719,8,L,65,Pendek
+4720,18,L,74.4,Sangat Pendek
+4721,41,L,89.7,Pendek
+4722,28,L,81.6,Pendek
+4723,15,L,71.8,Sangat Pendek
+4724,24,L,81,Pendek
+4725,24,L,79,Sangat Pendek
+4726,43,L,87.9,Sangat Pendek
+4727,42,L,89.8,Pendek
+4728,16,L,72,Sangat Pendek
+4729,38,L,87,Pendek
+4730,24,L,75,Sangat Pendek
+4731,59,L,93.3,Sangat Pendek
+4732,23,P,78,Pendek
+4733,58,L,97,Pendek
+4734,5,L,61,Pendek
+4735,16,P,73.3,Pendek
+4736,52,L,96,Pendek
+4737,28,L,78.4,Sangat Pendek
+4738,15,L,72.4,Pendek
+4739,50,L,96,Pendek
+4740,49,L,92.6,Pendek
+4741,48,P,91.9,Pendek
+4742,34,P,78,Sangat Pendek
+4743,21,L,71.8,Sangat Pendek
+4744,21,L,76.6,Sangat Pendek
+4745,46,L,91.3,Pendek
+4746,49,L,91.8,Pendek
+4747,35,P,82.5,Sangat Pendek
+4748,22,L,80.4,Pendek
+4749,20,L,78,Pendek
+4750,42,L,91,Pendek
+4751,51,L,95,Pendek
+4752,15,L,69.8,Sangat Pendek
+4753,48,L,92.4,Pendek
+4754,24,L,79.8,Pendek
+4755,20,L,74,Sangat Pendek
+4756,44,L,92.5,Pendek
+4757,39,L,89,Pendek
+4758,26,L,79.1,Sangat Pendek
+4759,16,L,75.4,Pendek
+4760,27,L,82.5,Pendek
+4761,13,L,71.9,Pendek
+4762,13,L,72,Pendek
+4763,35,L,85,Pendek
+4764,46,L,93.4,Pendek
+4765,16,L,73.5,Pendek
+4766,39,L,86,Sangat Pendek
+4767,39,L,89.6,Pendek
+4768,37,P,85.9,Pendek
+4769,37,L,85.7,Pendek
+4770,23,P,75,Sangat Pendek
+4771,46,P,90.9,Pendek
+4772,34,P,83.9,Pendek
+4773,57,P,97,Pendek
+4774,42,P,89,Pendek
+4775,41,P,89.2,Pendek
+4776,46,P,92.4,Pendek
+4777,34,P,85.5,Pendek
+4778,21,P,77,Pendek
+4779,30,P,84.4,Pendek
+4780,41,P,89.5,Pendek
+4781,17,P,74,Pendek
+4782,51,P,93.4,Pendek
+4783,56,P,97.5,Pendek
+4784,43,P,91.1,Pendek
+4785,42,P,89.9,Pendek
+4786,53,P,94.2,Pendek
+4787,53,P,96.6,Pendek
+4788,14,P,68.2,Sangat Pendek
+4789,53,P,92,Sangat Pendek
+4790,16,P,71.8,Pendek
+4791,36,P,87,Pendek
+4792,35,P,84,Pendek
+4793,54,P,97,Pendek
+4794,42,P,89.2,Pendek
+4795,30,P,83,Pendek
+4796,26,P,77,Sangat Pendek
+4797,41,P,89.2,Pendek
+4798,1,P,47,Sangat Pendek
+4799,1,P,47.3,Sangat Pendek
+4800,12,P,67.5,Pendek
+4801,41,P,87.8,Pendek
+4802,18,P,74,Pendek
+4803,5,L,62,Pendek
+4804,49,P,94.5,Pendek
+4805,38,P,87.4,Pendek
+4806,48,P,93.5,Pendek
+4807,36,P,85.5,Pendek
+4808,34,P,85.6,Pendek
+4809,33,P,83.1,Pendek
+4810,24,P,78,Pendek
+4811,40,P,88.8,Pendek
+4812,33,P,78.7,Sangat Pendek
+4813,32,P,82.7,Pendek
+4814,40,P,87,Pendek
+4815,26,P,81,Pendek
+4816,38,P,85.5,Pendek
+4817,47,P,92,Pendek
+4818,46,L,92.3,Pendek
+4819,46,P,88.6,Sangat Pendek
+4820,45,P,91.5,Pendek
+4821,27,P,80.7,Pendek
+4822,51,P,93,Pendek
+4823,47,L,89.5,Sangat Pendek
+4824,23,P,77.9,Pendek
+4825,44,P,91.6,Pendek
+4826,55,P,96.6,Pendek
+4827,42,P,91.4,Pendek
+4828,39,P,88,Pendek
+4829,3,P,54,Pendek
+4830,48,P,94,Pendek
+4831,46,P,89.7,Pendek
+4832,35,P,86,Pendek
+4833,23,P,77,Pendek
+4834,33,P,86.1,Pendek
+4835,33,P,85,Pendek
+4836,34,P,85.1,Pendek
+4837,57,P,96.7,Pendek
+4838,37,P,86.7,Pendek
+4839,50,L,93.3,Pendek
+4840,37,P,83.4,Sangat Pendek
+4841,44,P,92.5,Pendek
+4842,39,P,88.6,Pendek
+4843,12,P,68,Pendek
+4844,45,P,88.7,Pendek
+4845,33,P,81.7,Sangat Pendek
+4846,27,L,82.3,Pendek
+4847,27,P,81.1,Pendek
+4848,38,P,86.6,Pendek
+4849,13,P,68,Pendek
+4850,33,P,85.5,Pendek
+4851,32,P,82.5,Pendek
+4852,31,P,79.8,Sangat Pendek
+4853,39,P,89.2,Pendek
+4854,39,P,86.4,Pendek
+4855,50,P,94.5,Pendek
+4856,48,P,91.3,Pendek
+4857,57,P,95,Pendek
+4858,56,P,97.2,Pendek
+4859,42,P,90,Pendek
+4860,18,P,74.1,Pendek
+4861,29,P,82.5,Pendek
+4862,17,P,70,Sangat Pendek
+4863,35,L,88.6,Pendek
+4864,45,P,92.5,Pendek
+4865,41,P,89.5,Pendek
+4866,27,P,81,Pendek
+4867,34,P,82.7,Sangat Pendek
+4868,43,P,91.3,Pendek
+4869,42,P,85.7,Sangat Pendek
+4870,28,P,81.5,Pendek
+4871,51,P,94,Pendek
+4872,50,P,95.3,Pendek
+4873,34,P,84.8,Pendek
+4874,22,P,74.8,Sangat Pendek
+4875,45,P,91.4,Pendek
+4876,54,P,95.5,Pendek
+4877,42,P,91.2,Pendek
+4878,18,P,74.5,Pendek
+4879,38,P,87.5,Pendek
+4880,26,P,77.5,Sangat Pendek
+4881,11,P,67.5,Pendek
+4882,57,P,96,Pendek
+4883,32,P,83.8,Pendek
+4884,32,P,84,Pendek
+4885,55,P,96.7,Pendek
+4886,18,P,75,Pendek
+4887,41,P,90.3,Pendek
+4888,30,P,81.3,Pendek
+4889,15,P,72,Pendek
+4890,37,P,85.2,Sangat Pendek
+4891,0,P,45,Pendek
+4892,22,P,76.2,Pendek
+4893,55,L,88.1,Sangat Pendek
+4894,54,P,91.7,Sangat Pendek
+4895,39,P,88.5,Pendek
+4896,35,P,83.6,Pendek
+4897,45,P,87.7,Sangat Pendek
+4898,31,P,83.7,Pendek
+4899,35,P,87.1,Pendek
+4900,31,P,83.5,Pendek
+4901,28,P,79.6,Pendek
+4902,48,P,92.4,Pendek
+4903,34,P,85.5,Pendek
+4904,20,P,74,Sangat Pendek
+4905,18,P,72.1,Sangat Pendek
+4906,51,P,95.6,Pendek
+4907,27,P,81.5,Pendek
+4908,24,P,77,Sangat Pendek
+4909,57,P,96.1,Pendek
+4910,19,P,76,Pendek
+4911,10,P,67,Pendek
+4912,33,P,84.4,Pendek
+4913,9,P,65.1,Pendek
+4914,32,P,85.2,Pendek
+4915,39,P,88.6,Pendek
+4916,15,P,69,Sangat Pendek
+4917,3,L,57.3,Pendek
+4918,56,P,95,Pendek
+4919,41,P,90.3,Pendek
+4920,28,P,82,Pendek
+4921,27,P,81,Pendek
+4922,49,P,88.7,Sangat Pendek
+4923,22,P,75,Pendek
+4924,32,P,84,Pendek
+4925,42,P,88.4,Pendek
+4926,26,P,78.4,Pendek
+4927,26,P,78,Pendek
+4928,26,P,72.2,Sangat Pendek
+4929,46,P,91.5,Pendek
+4930,19,P,75.7,Pendek
+4931,17,P,74.2,Pendek
+4932,50,P,93.8,Pendek
+4933,50,P,93,Pendek
+4934,26,P,75.2,Sangat Pendek
+4935,14,P,71.2,Pendek
+4936,59,P,95.9,Pendek
+4937,23,P,77.3,Pendek
+4938,53,P,95.2,Pendek
+4939,48,L,93.3,Pendek
+4940,40,P,88.3,Pendek
+4941,46,L,93,Pendek
+4942,38,L,82.1,Sangat Pendek
+4943,43,L,89.6,Pendek
+4944,29,L,81.5,Pendek
+4945,24,L,80,Pendek
+4946,22,L,76.5,Sangat Pendek
+4947,27,L,80,Sangat Pendek
+4948,26,L,80.5,Pendek
+4949,24,L,77,Sangat Pendek
+4950,54,L,96.5,Pendek
+4951,29,L,82.3,Pendek
+4952,26,L,77.3,Sangat Pendek
+4953,22,L,78.5,Pendek
+4954,31,L,86.1,Pendek
+4955,36,L,88,Pendek
+4956,19,L,78,Pendek
+4957,0,L,47,Sangat Pendek
+4958,23,L,79.8,Pendek
+4959,25,P,76.8,Sangat Pendek
+4960,25,P,80.1,Pendek
+4961,44,P,88.7,Pendek
+4962,36,P,84.5,Pendek
+4963,14,P,70.4,Pendek
+4964,13,P,69.4,Pendek
+4965,58,P,98.8,Pendek
+4966,43,P,86,Sangat Pendek
+4967,20,P,75,Pendek
+4968,40,P,88.2,Pendek
+4969,16,P,73,Pendek
+4970,21,P,75,Sangat Pendek
+4971,21,P,76,Pendek
+4972,0,P,49,Pendek
+4973,19,P,75.9,Pendek
+4974,14,P,68.4,Sangat Pendek
+4975,0,P,45,Pendek
+4976,23,P,79.4,Pendek
+4977,43,P,89.6,Pendek
+4978,19,P,75.6,Pendek
+4979,14,P,70.3,Pendek
+4980,39,P,84.5,Sangat Pendek
+4981,26,L,77,Sangat Pendek
+4982,45,P,85,Sangat Pendek
+4983,58,L,100,Pendek
+4984,49,L,95,Pendek
+4985,18,L,76,Pendek
