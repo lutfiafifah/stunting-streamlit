@@ -1,3 +1,4 @@
+import os
 import numpy as np
 import pandas as pd
 import streamlit as st
@@ -85,7 +86,7 @@ MONTHS = [
     "Mei", "Juni", "Juli", "Agustus",
     "September", "Oktober", "November", "Desember"
 ]
-
+DELETE_FLAG = "data_deleted.flag"
 # ====================================================
 # LOAD DATA
 # ====================================================
@@ -201,6 +202,8 @@ with st.sidebar:
             else:
                 st.session_state["uploaded_data"] = uploaded_df
                 st.session_state["data_deleted"] = False
+                if os.path.exists(DELETE_FLAG):
+                    os.remove(DELETE_FLAG)
 
                 st.success(
                     "Dataset berhasil diupload!"
@@ -210,6 +213,9 @@ with st.sidebar:
             st.error(e)
 
     if st.button("🗑️ Hapus / Ganti Data"):
+
+        with open(DELETE_FLAG, "w") as f:
+             f.write("deleted")
 
         st.session_state["uploaded_data"] = (
             pd.DataFrame(columns=REQUIRED_COLS)
@@ -224,7 +230,11 @@ with st.sidebar:
 # ====================================================
 # PILIH DATA
 # ====================================================
-if st.session_state["uploaded_data"] is not None:
+if os.path.exists(DELETE_FLAG):
+
+    raw_df = pd.DataFrame(columns=REQUIRED_COLS)
+
+elif st.session_state["uploaded_data"] is not None:
 
     raw_df = st.session_state["uploaded_data"]
 
